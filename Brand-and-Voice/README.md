@@ -6,7 +6,7 @@ Minda's steer and existing company materials — see HI-3 in `open-issues.md`._
 | Company | Status |
 |---|---|
 | Fishbone Construction Ltd | Started (`Fishbone-Construction-Ltd.md`) — trades/history captured; **no brand identity or voice steer exists yet** |
-| Amfa Furniture Ltd | Started (`Amfa-Furniture-Ltd.md`) — real logo/tagline/positioning found (owner has not yet confirmed the logo as final); several open questions block full use |
+| Amfa Furniture Ltd | Well underway (`Amfa-Furniture-Ltd.md`) — tagline, positioning, voice patterns, service categories, pricing and process confirmed from Minda's uploaded future-website copy (2026-09-14). Still open: exact brand colours/logo source file, real product photography, launch timing |
 | Fishbone Properties Ltd | Not started — later focus (property listings) |
 | Fishbone Commercial Properties Ltd | Not started — later focus |
 | Fishbone Holdings Ltd | Not started |

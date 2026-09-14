@@ -1,59 +1,104 @@
 # Brand & Voice — Amfa Furniture Ltd
 
-_Starter capture from existing company materials (HI-3). Facts below trace to the Amfa Furniture Ltd
-KB (Drive `1ugshCjwx2yvRXZvmtpwLcg3kUgTKN7aU`) and the group KB `Org-Amfa-Furniture-Ltd.md`. Tone of
-voice itself (formal/casual, sentence rhythm, house phrases) has **not** been steered by Minda yet —
-what follows is positioning and identity facts only. Update this file as real steer comes in._
+_Facts and voice below trace to Amfa's **future website copy** (9 PDF page exports — Home, About,
+Services, Portfolio, Kitchens, Wardrobe & Bedroom Storage, Bathroom Vanity Units, Living & Media,
+Home Office, Hallway & Utility, Custom Storage, Design & Process — footer-credited "Website
+development Anna Welik"), uploaded by Minda to `Research/` on 2026-09-14. **The site is not live yet**
+— treat this as the confirmed direction for voice/positioning/pricing, not as something to cite as an
+existing public website. Superseded the 2026-09-12 logo-only capture; see below for what that resolved._
 
-## Who they are
+## Who they are (confirmed)
 
-Amfa Furniture Ltd (company `11259604`; formerly Furniture by Fishbone Ltd, renamed 13 July 2026) is
-the Fishbone Group's furniture and panel manufacturing business — a wholly owned subsidiary of
-Fishbone Holdings Ltd. It makes bespoke kitchens and wardrobes; the first catalogue focus is kitchens.
+AMFA is a modern furniture company founded in **2024** by co-founders **Andrey Prutkov** and
+**Mindaugas Gaudešius**, with its own production facility in Newcastle upon Tyne. It designs and
+manufactures bespoke kitchens, fitted wardrobes, walk-in closets, and made-to-measure furniture from
+MDF and MFC panels, with in-house delivery and installation. (The 2024 founding lines up with the
+entity's actual rename from Fishbone Investment Ltd → Furniture by Fishbone Ltd on 10 April 2024.)
 
-## Positioning
+**Showroom:** Unit 30, Point Pleasant Industrial Estate, Newcastle Upon Tyne NE28 6HA — Mon–Fri
+8.00–17.00. **Phone:** 01916052945. **Email:** enquiries@amfa.uk.
 
-**"Premium bespoke kitchens and wardrobes with a luxury British feel."** (Amfa KB `CLAUDE.md` §7,
-cited in `Org-Amfa-Furniture-Ltd.md`.) Marketing copy should reflect **premium/luxury positioning**, not
-budget or mass-market language — but per the charter, no superlative ("the best", "award-winning")
-without a cited source behind it.
+## Brand identity (confirmed by this site copy — supersedes the "not yet confirmed" flag)
 
-## Brand identity — found, not yet owner-confirmed
+- **Tagline:** *"Crafting comfort. Defining spaces."*
+- **Category line:** *"Fine furniture"*
+- Site-wide positioning line: *"We design and manufacture bespoke kitchens and custom furniture — from
+  concept to finished product."*
+- Logo/colours (gold-bronze "AMFA" wordmark on black, per `Wiki/Processes/brand-identity.md`) still
+  has no source vector file or exact hex values — that part is still open.
 
-A logo image was found in the Amfa KB's `Raw/` folder (`IMG_20260912_182820_720.jpg`, captured in
-`Wiki/Processes/brand-identity.md`, 2026-09-12). **This is not yet confirmed by Minda as the final,
-approved logo** — treat as a strong signal of brand direction, not a locked asset, until confirmed.
+## Voice & tone (real patterns to imitate)
 
-- **Wordmark:** "AMFA" — custom geometric sans-serif, all capitals. The two A's and the M share
-  pointed, triangular peaks (no crossbar on the A's); bevelled, faceted letterforms suggesting a
-  metallic material treatment.
-- **Colour:** warm gold/bronze gradient wordmark on a solid black background. No exact hex/Pantone
-  values are recoverable from the source photo — ask Minda for the source file or a style guide before
-  using exact colours in a production deliverable.
-- **Tagline:** *"Crafting Comfort. Defining Spaces."* (a thin gold rule above it)
-- **Category line:** *"Fine Furniture"* (set between two short gold rules)
+Read across all nine pages, the house voice is: **confident, benefit-led, grounded in specifics** —
+never oversells with a bare superlative, always backs a claim with a material, a number, or a
+timeframe. UK spelling throughout (colour, organised, visualisation, metres). Short punchy openers,
+then substance.
 
-## What's still open before this can drive real marketing
+Recurring structure per service page: hook line → "what we do" → sub-options → "who it's for" →
+materials/hardware → process → pricing/warranty → FAQ → CTA. Recurring CTAs: *"Get a free quote →"*,
+*"Check out our portfolio →"*, *"Visit our showroom →"*.
 
-Per the Amfa KB's `2026-09-12_marketing-sales-prep_open-questions.md` (owner has not yet answered):
+Real example lines worth imitating directly:
+- *"The kitchen is the heart of the home. That's why we create spaces that perfectly match each
+  client's lifestyle, habits, and interior."*
+- *"Not every space fits neatly into a kitchen, bedroom, or living room. That's exactly where our
+  custom storage solutions come in."*
+- *"Your hallway is the first impression your home makes."*
+- *"We take care of the entire process — not just manufacturing, but everything from design to
+  installation."*
 
-- Whether the found logo is the final, approved version, and whether a source vector file / exact
-  brand colours exist
-- Whether other brand assets exist (horizontal lockup, monochrome/reversed version, favicon)
-- Any existing brand guidelines (fonts, tone of voice, imagery style) — or whether Helen/Minda are
-  defining these from scratch
-- Catalogue scope beyond kitchens (wardrobes, etc.), and content depth (spec sheets vs. lookbook)
-- Real product photography (none confirmed yet — kitchen unit sizes drafted 2026-09-10 are generic UK
-  standard sizes, **not verified against Amfa's actual manufacturing spec**)
-- Pricing/sales process, website URL and lead-capture destination, target customer profile, launch
-  timing
+Six recurring differentiators (use consistently, don't invent new ones): **In-house manufacturing**
+(full quality control at every stage), **Made for You** (tailored to size/style/needs), **Built to
+last** (moisture- and wear-resistant materials, European hardware), **Residential & commercial**,
+**Modern style**, **Always on time**.
 
-**Until these come back answered, draft Amfa marketing content conservatively**: use the tagline,
-category line and premium/luxury positioning above, but do not assert exact product dimensions,
-pricing, or claim the logo as final without flagging it.
+## Service categories (the real eight — don't invent others)
+
+Kitchens (Bespoke / Fitted) · Wardrobe & Bedroom Storage (Fitted / Sliding door / Walk-in / Bedroom
+furniture) · Bathroom Vanity Units · Living & Media Furniture (Living room / Media walls & TV units) ·
+Home Office Furniture · Hallway & Utility Room Furniture · Custom Storage Solutions · Commercial
+Furniture (Office / Retail & shop fittings / Hotel & serviced apartment).
+
+## Facts now safe to cite in drafts
+
+| | |
+|---|---|
+| Materials | MFC (Melamine Faced Chipboard), MDF, moisture-resistant panels where needed, ABS edging, European soft-close hardware |
+| Warranty | Up to 10 years on furniture and hardware (manufacturing defects/workmanship, correct use/maintenance) |
+| Free measuring visit | Within 50 miles of the Newcastle showroom; further afield priced individually |
+| Manufacturing time | Kitchens 3–8 weeks · Home office/Hallway/Utility 4–8 weeks · Bathroom vanity 2–8 weeks (from design/material approval) |
+| Pricing floors | Kitchens from £2,000 · Home office from £1,500 · Hallway/Utility from £1,500 · Bathroom vanity from £1,000 (all bespoke-quoted, not fixed) |
+| Process | Consultation → Design & material selection (3D visualisation + PDF) → Manufacturing → Delivery & installation |
+| Who bespoke kitchens suit | Non-standard layouts, premium interiors, large family kitchens, unique-design projects, kitchen-living rooms, complex geometry |
+| Who fitted kitchens suit | Apartments, new-build homes, investment properties, budget-conscious projects, modern family homes |
+
+This is a genuinely useful signal on **audience range**: Amfa isn't only chasing top-end premium —
+the fitted-kitchen line explicitly targets budget-conscious and investment-property buyers too. Keep
+both registers available depending on which product a piece is about; don't apply "luxury only"
+framing to a fitted-kitchen or budget-facing draft.
+
+## What's now resolved vs. still open
+
+**Resolved by this upload:** tagline/category line confirmed (no longer "unconfirmed"), catalogue
+scope (all eight categories, not kitchens-only), pricing floors, manufacturing timelines, warranty
+terms, process steps, founders and founding story, contact/showroom details, target-customer range
+per product line.
+
+**Still open:**
+- Exact brand colours (hex/Pantone) and a source vector logo file
+- Real product photography (the site copy references a portfolio/examples but no images were supplied)
+- Launch date / go-live timing for the actual site, and who owns marketing execution
+- Whether this PDF export is the **final, approved** copy or still a work-in-progress draft from the
+  site developer — treat as strong direction, not yet as "published, so citable as fact" until Minda
+  confirms it's locked
 
 ## Sources
 
-- Amfa KB `Wiki/Processes/brand-identity.md` (2026-09-12) — logo, tagline, category line
-- Amfa KB `Outputs/2026-09-12_marketing-sales-prep_open-questions.md` (2026-09-12) — open questions
-- Group KB `Wiki/Org-Amfa-Furniture-Ltd.md` — positioning line, company facts
+- `Research/` — 9 PDF page exports of Amfa's future website (Home, About, Services, Portfolio,
+  Kitchens, Wardrobe & Bedroom Storage, Bathroom Vanity Units, Home Office Furniture, Hallway &
+  Utility Room Furniture, Custom Storage Solutions, Design & Process), uploaded by Minda 2026-09-14.
+  One file (`Главная страница.pdf`, Russian for "Home page") is the same Home page — Russian filename
+  is an artifact of the export tool, not a language signal; page content is English throughout.
+- Amfa KB `Wiki/Processes/brand-identity.md` (2026-09-12) — logo description, still not superseded on
+  colour/vector-file specifics
+- Group KB `Wiki/Org-Amfa-Furniture-Ltd.md` — company history, name changes

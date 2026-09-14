@@ -134,8 +134,8 @@ Helen - AI Content & Marketing Assistant/
 └── _unverified/          <- facts/claims that could not be sourced; flagged, never used as fact
 ```
 
-Git mirror: **`minda-ui/Helen`** (to be created by Minda — the integration cannot create repos; Claude
-then seeds it). Drive is the source of truth until the mirror exists.
+Git mirror: **`minda-ui/Helen`** (created and seeded 2026-09-14; kept in step with Drive). Drive is the
+source of truth; the repo is its mirror.
 
 ---
 

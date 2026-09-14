@@ -9,11 +9,17 @@ existing public website. Superseded the 2026-09-12 logo-only capture; see below 
 
 ## Who they are (confirmed)
 
-AMFA is a modern furniture company founded in **2024** by co-founders **Andrey Prutkov** and
-**Mindaugas Gaudešius**, with its own production facility in Newcastle upon Tyne. It designs and
+AMFA is a modern furniture company founded in **2024** by co-founders **Andrejus Prutkovas** and
+**Mindaugas Gaudiesius**, with its own production facility in Newcastle upon Tyne. It designs and
 manufactures bespoke kitchens, fitted wardrobes, walk-in closets, and made-to-measure furniture from
 MDF and MFC panels, with in-house delivery and installation. (The 2024 founding lines up with the
 entity's actual rename from Fishbone Investment Ltd → Furniture by Fishbone Ltd on 10 April 2024.)
+
+**Name correction (2026-09-14, Minda):** Amfa's own future-website PDFs render the founders' names as
+"Andrey Prutkov" and "Mindaugas Gaudešius" — Minda has corrected these to **Andrejus Prutkovas** and
+**Mindaugas Gaudiesius**, which also match the statutory-records spelling seen elsewhere in the group
+KB (e.g. Construction's directors: "A Prutkovas" and "M Gaudiesius"). Use the corrected spelling in
+all Helen drafts; flag the discrepancy back to the website developer if asked.
 
 **Showroom:** Unit 30, Point Pleasant Industrial Estate, Newcastle Upon Tyne NE28 6HA — Mon–Fri
 8.00–17.00. **Phone:** 01916052945. **Email:** enquiries@amfa.uk.

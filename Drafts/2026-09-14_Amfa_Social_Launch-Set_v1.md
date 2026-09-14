@@ -15,7 +15,7 @@
 
 Crafting comfort. Defining spaces. 🛠️
 
-We're AMFA — a furniture company founded in 2024 by co-founders Andrey Prutkov and Mindaugas Gaudešius, with our own production facility right here in Newcastle upon Tyne.
+We're AMFA — a furniture company founded in 2024 by co-founders Andrejus Prutkovas and Mindaugas Gaudiesius, with our own production facility right here in Newcastle upon Tyne.
 
 We design and manufacture bespoke kitchens, fitted wardrobes, walk-in closets and made-to-measure furniture — from the first sketch to the final fit. Every piece is built in-house, so we control quality at every single stage, and every project is made for you: your size, your style, your space.
 
@@ -72,3 +72,4 @@ Get a free quote, or book a visit to the showroom — whichever works best for y
 | Date | Change |
 |---|---|
 | 2026-09-14 | Drafted — 3-post launch set, all facts traced to `Brand-and-Voice/Amfa-Furniture-Ltd.md` |
+| 2026-09-14 | Corrected co-founder names per Minda: "Andrejus Prutkovas" and "Mindaugas Gaudiesius" (the source website PDF had "Andrey Prutkov" / "Mindaugas Gaudešius") |

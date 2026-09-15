@@ -6,6 +6,11 @@ treated as genuine, owner-confirmed content per Minda, 2026-09-15. Supersedes th
 capture, which had trade/history facts only and no brand identity or voice steer. See `open-issues.md`
 HI-3/HI-4 and `external-source-register.md` HSRC-08._
 
+_**Hostname note (2026-09-15):** use the bare domain `fishboneconstruction.co.uk`, not `www.`. The
+`www.` subdomain is blocked by this environment's network egress proxy (`EGRESS_BLOCKED` on `WebFetch`,
+403 on a raw `curl` CONNECT tunnel); the bare domain resolves and loads fine on both. Retest `www.` on a
+future genuine site update rather than assuming it stays blocked._
+
 ## Who they are
 
 Fishbone Construction Ltd (company `07948220`) is the construction arm of the Fishbone Group, a wholly

@@ -6,7 +6,7 @@
 | Channel | Social (LinkedIn-style — short, company-personalised) |
 | Brief | `AWT-0007` — Construction portion (Amfa portion already filed; Properties portion not started — no Brand-and-Voice reference exists for Properties yet) |
 | Sources | `Brand-and-Voice/Fishbone-Construction-Ltd.md` (tagline, positioning, voice, services, process, portfolio, stats — all drawn from `HSRC-08`, the company's own live website); Group KB `Org-Fishbone-Construction-Ltd.md` |
-| Status | **Ready for review** — no unsourced claims; nothing here needs `_unverified/` flagging. Not for posting yet: no provisioned social account (HI-2), so ready-to-use whenever a channel exists, not scheduled |
+| Status | **Ready for review** — self-QA'd 2026-09-16 (see `Research/2026-09-16_Construction_Case-Study-and-Social_Review.md`); one stat misattribution fixed. No unsourced claims remain; nothing here needs `_unverified/` flagging. Not for posting yet: no provisioned social account (HI-2), so ready-to-use whenever a channel exists, not scheduled |
 | Notes | Deliberately distinct from `Drafts/2026-09-15_Construction_Case-Study_Rolex-Fit-Out_v1.md` — that's a long-form single-project piece; this set is a company-level intro/process/services launch, same shape as the Amfa set. Post 3 references the fit-out portfolio (Rolex, Armani, etc.) as a teaser rather than repeating the Rolex case detail. Stats cited ("120+ projects", "8 countries") are the company's own public claim, not independently verified — flagged as such on the source page too. No location given in any post — Construction's Brand-and-Voice file doesn't state one, so none is invented. |
 
 ---
@@ -64,7 +64,7 @@ Four services, one standard of work:
 🔹 **Health and Safety** — site safety management and compliance, backed by our ISO 9001 certification
 🔹 **Refurbishment** — offices, healthcare facilities, retail outlets, warehouses and commercial property
 
-Our Fit Out work alone has delivered for names like Rolex, Armani, Versace, Superdry, Peloton and Sofa.com — 120+ projects and counting.
+Our Fit Out work has delivered for names like Rolex, Armani, Versace, Superdry, Peloton and Sofa.com — part of 120+ projects completed across all our services.
 
 Whatever the scope, it's the same approach: documented, traceable, no shortcuts.
 
@@ -81,3 +81,4 @@ Which service does your project need? Get in touch.
 | Date | Change |
 |---|---|
 | 2026-09-15 | Drafted — 3-post launch set (brand intro, process, services overview), all facts traced to `Brand-and-Voice/Fishbone-Construction-Ltd.md` / `HSRC-08`. Completes the Construction portion of `AWT-0007`. |
+| 2026-09-16 | Self-reviewed against `HSRC-08` (see `Research/2026-09-16_Construction_Case-Study-and-Social_Review.md`). Post 3 misattributed the company-wide "120+ projects" stat as if it were Fit-Out-specific ("Our Fit Out work alone... 120+ projects and counting") — the source states 120+ as an overall public claim across all services, not broken down by service line. Reworded to attribute it correctly. Everything else checked clean. |

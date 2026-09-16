@@ -2,6 +2,22 @@
 
 _Append-only dated session file. Newest notes at the top. See `current-state.md` and `CHARTER.md`._
 
+## Update — 2026-09-16 (same day): resolved — Minda restored the file
+
+Minda restored Alex's `open-issues.md` from Google Drive's Trash herself. Verified via
+`get_file_metadata` on `1VPYo3Skzi8IyiUoTT0oRtczJKV1sZ7d0`: back in Alex's KB folder
+(`1QGc0EqThFDAIP7QYvGY1DEhliSbMTGNe`), same file size (5370 B) as before it was trashed — content intact,
+nothing else appears to have touched it in the interim.
+
+`HI-5` marked Resolved in `open-issues.md`. The corresponding Help & Lessons row (`HL-0011`,
+`7780569054316420` row `245986763605892`) updated to Status = Resolved, Owner = Minda, with the "what to
+do next time" lesson recorded there for the shared desk: re-verify a file's `parentId` via
+`get_file_metadata` immediately before any `trash_file` call, especially when an ID could have been read
+from a different KB earlier in the same session.
+
+Total time from mistake to resolution: well within the same session — no lasting harm, but the near-miss
+stands as the process lesson regardless.
+
 ## Session — 2026-09-16: charter §2b boundary breach during routine Drive cleanup
 
 **What happened.** After recording Minda's approval of the two Construction drafts, Helen recreated

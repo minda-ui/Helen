@@ -19,3 +19,16 @@ business-priority decision, not a technical blocker, and consistent with the cha
 
 **Open / next.** No Properties work — Brand-and-Voice, drafts, research — should be started without
 Minda reopening it first.
+
+## Follow-up — 2026-09-16: reported AWT-0006/AWT-0007 completion on the Hub Achievements sheet
+
+Minda asked Helen to report that `AWT-0007` is Done, and to check with Alex where to report it. No Alex
+session was live to message directly (`ListAgents` returned none running), so checked Alex's own charter
+(Drive `1QGc0EqThFDAIP7QYvGY1DEhliSbMTGNe/CHARTER.md`) instead — it confirms the **Achievements** sheet
+(`4569101748012932`) on the AI Workforce Hub is exactly where finished work gets reported, and matches
+Helen's own charter §2a (the scoped exception to append her own Achievements rows). Alex's daily Hub
+reconcile routine also treats that sheet as canonical, so this is the right place, not just an allowed
+one.
+
+Added one Achievements row (`8673468512601988`) covering both `AWT-0006` (Rolex case study) and `AWT-0007`
+(Construction social set + Properties hold), linking back to the drafts and this change-log.

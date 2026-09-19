@@ -125,19 +125,19 @@ confirmed by Minda as Fishbone Construction Ltd's logo:
 
 Both files stay in OneDrive; not copied into this KB.
 
-**Brand colours — extracted 2026-09-19** by pixel-sampling `Little logo.jpg` (Python/Pillow analysis of
-the actual downloaded image, not a visual guess):
+**Brand colours — CONFIRMED FINAL by Minda, 2026-09-19.** Extracted by pixel-sampling `Little logo.jpg`
+(Python/Pillow analysis of the actual downloaded image, not a visual guess):
 
-| Colour | Hex | RGB | Notes |
+| Colour | Hex | RGB | Use |
 |---|---|---|---|
-| Green | `#74C800` | 116, 200, 0 | Dominant, most-repeated tone — bright lime/apple green |
-| Grey | `#A8A8A8` | 168, 168, 168 | Mid-tone pick — the file actually uses a glossy gradient from `#808080` (shadow) to `#DCDCDC` (highlight), not one flat grey |
+| **Green** | **`#74C800`** | 116, 200, 0 | Primary brand colour |
+| **Grey** | **`#A8A8A8`** | 168, 168, 168 | Secondary brand colour |
 
-**Caveat:** `Little logo.jpg` renders as a glossy 3D sticker effect (gradient shading per icon), not a
-flat vector fill — so these are the best representative tones from the file, not confirmed "official"
-brand hex values. `Fishbone Logo.tif` (the master file) still couldn't be opened via the connector
-(returns empty content) to cross-check against — worth verifying these values against it, or against any
-flat/vector source, if one turns up. Ask Minda to confirm if these need to be treated as final.
+Extraction note (for provenance, not a caveat any more): `Little logo.jpg` renders as a glossy 3D sticker
+effect (gradient shading per icon, roughly `#808080`–`#DCDCDC` on the grey), so these hex values are the
+representative/modal tone from that file rather than a flat vector source — but Minda has confirmed them
+as final, so use them as Construction's locked brand colours going forward. `Fishbone Logo.tif` (the
+master file) still couldn't be opened via the connector to cross-check.
 
 ## What NOT to draw into marketing copy
 

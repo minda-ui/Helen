@@ -114,6 +114,22 @@ fetch the specific `/our-work/<slug>/` page when a brief needs that project's de
 | Countries worked in | "8" (site's own figure — no further breakdown found; cite as the company's stated claim, not independently itemised) |
 | Certification | ISO 9001 (Quality Management) |
 
+## Logo & visual identity
+
+**Logo files confirmed 2026-09-19**, both in the group OneDrive `/LOGO` folder (`HSRC-09`), both
+confirmed by Minda as Fishbone Construction Ltd's logo:
+- `Fishbone Logo.tif` — the original/master file. Created 2019-04-07, within minutes of the `/LOGO`
+  folder itself.
+- `Little logo.jpg` — a small version of the same logo. Visually: a fishbone-skeleton icon motif in
+  green and grey.
+
+Both files stay in OneDrive; not copied into this KB.
+
+**Still open:** exact brand colours (hex/Pantone values) — neither file's exact colour values have been
+extracted yet (the `.tif` isn't directly viewable via the connector used to check it, and eyeballing the
+`.jpg` isn't a substitute for real hex values). Would need a file opened in an image editor, or Minda to
+supply the values directly.
+
 ## What NOT to draw into marketing copy
 
 Construction's internal KB is mostly financial/statutory material (accounts, loans, tax, court case
@@ -124,6 +140,8 @@ balances, dividends, director remuneration, or the MSEM court case in any market
 
 - HSRC-08 — Fishbone Construction Ltd live website (`https://fishboneconstruction.co.uk`): Home,
   About Us, Our Services, Our Work, Our Work/Rolex — fetched 2026-09-15
+- HSRC-09 — Group OneDrive `/LOGO` folder — `Fishbone Logo.tif`, confirmed by Minda 2026-09-19 as
+  Construction's logo file
 - Group KB `Wiki/Org-Fishbone-Construction-Ltd.md` — incorporation/rename history, statutory director
   spelling (cross-check)
 - Construction KB `13IQdim0JhKmoQvJBmJmnMhreJqg55xTr` — full historical trade list, confirms no separate

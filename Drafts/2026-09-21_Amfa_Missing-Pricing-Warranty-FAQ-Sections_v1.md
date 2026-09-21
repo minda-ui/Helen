@@ -6,20 +6,12 @@
 Solutions, and Commercial Furniture are the only 3 of 8 category pages without a pricing/warranty/FAQ
 section.
 **Brief:** Minda, 2026-09-21 — "let's work on pricing/warranty/FAQ section".
-**Status:** All 3 sections confirmed by Minda, 2026-09-21. Living & Media and Custom Storage use
+**Status:** Final. All 3 sections confirmed by Minda, 2026-09-21. Living & Media and Custom Storage use
 "4–8 weeks" / "from £1,500". Commercial Furniture is priced individually per project, no published
-floor. **One small open item remains** — see below.
+floor. The project-deadline FAQ question was dropped rather than answered (Minda, 2026-09-21) — no
+open items remain.
 
 ---
-
-## Before anything else: what's still needed from you
-
-All three pricing/warranty sections are settled. **One FAQ answer on Commercial Furniture is still
-held back deliberately** rather than drafted: whether to publicly commit to hitting a project deadline
-(e.g. a hotel opening date). The site's own differentiators list "Always on time" as a standing
-commitment, so an answer could be phrased around that — but a missed commercial deadline carries more
-reputational weight than a missed residential delivery date, so wanted your explicit sign-off before
-putting that promise in writing. See the FAQ section below.
 
 ## What's already confirmed and safely reused (not invented)
 
@@ -152,12 +144,6 @@ workmanship quality, provided the furniture is used and maintained correctly.
 Yes. We work with offices, hotels, retail spaces, serviced apartments, property management companies,
 developers, and other commercial and investment properties.
 
-**Can you work to a project deadline, such as a hotel opening date?**
-[NEEDS CONFIRMATION — the site's own differentiators list "Always on time" as a standing commitment;
-happy to phrase an FAQ answer around that, but wanted to flag rather than promise something specific
-to commercial deadlines without your sign-off, since a missed opening date is a bigger reputational
-risk than a missed residential delivery date.]
-
 **Do you provide installation?**
 Yes. We offer a complete service, from concept development through to professional installation.
 
@@ -176,5 +162,6 @@ company's warranty terms.
   process facts used in the FAQ content.
 - `Research/2026-09-21_Amfa_Live-Site_Pre-Launch-Review.md` — where this gap was first identified.
 - Minda, in chat, 2026-09-21 — confirmed the Living & Media / Custom Storage manufacturing-time and
-  pricing figures ("Prepose accepted"), converting them from a proposed placeholder to a fact; also
-  chose the priced-per-project approach for Commercial Furniture over a published starting price.
+  pricing figures ("Prepose accepted"), converting them from a proposed placeholder to a fact; chose
+  the priced-per-project approach for Commercial Furniture over a published starting price; and said
+  to drop the project-deadline FAQ question rather than answer it.

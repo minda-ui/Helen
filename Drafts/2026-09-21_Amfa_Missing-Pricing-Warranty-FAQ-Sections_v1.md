@@ -6,25 +6,20 @@
 Solutions, and Commercial Furniture are the only 3 of 8 category pages without a pricing/warranty/FAQ
 section.
 **Brief:** Minda, 2026-09-21 — "let's work on pricing/warranty/FAQ section".
-**Status:** Living & Media and Custom Storage sections **confirmed by Minda, 2026-09-21** ("Prepose
-accepted") — the "4–8 weeks" / "from £1,500" figures are now treated as fact, not a placeholder.
-Commercial Furniture still needs Minda's choice between Option A/B and a decision on the deadline FAQ
-(see §3) before it's ready to go live.
+**Status:** All 3 sections confirmed by Minda, 2026-09-21. Living & Media and Custom Storage use
+"4–8 weeks" / "from £1,500". Commercial Furniture is priced individually per project, no published
+floor. **One small open item remains** — see below.
 
 ---
 
 ## Before anything else: what's still needed from you
 
-Living & Media Furniture and Custom Storage Solutions are settled — see the confirmation note above.
-**Commercial Furniture is the only open item left:**
-
-1. **Which pricing approach** — a published "from £X" starting price (Option A, matches how every
-   other category is written — needs a real figure from you), or no published floor, priced per
-   project instead (Option B, more typical for B2B/commercial furniture work, no number needed). Both
-   are drafted below.
-2. **The project-deadline FAQ answer** — held back deliberately rather than drafted, since publicly
-   promising to hit a commercial deadline (e.g. a hotel opening date) carries more weight than a
-   residential delivery date. Wanted your sign-off before committing to that in writing.
+All three pricing/warranty sections are settled. **One FAQ answer on Commercial Furniture is still
+held back deliberately** rather than drafted: whether to publicly commit to hitting a project deadline
+(e.g. a hotel opening date). The site's own differentiators list "Always on time" as a standing
+commitment, so an answer could be phrased around that — but a missed commercial deadline carries more
+reputational weight than a missed residential delivery date, so wanted your explicit sign-off before
+putting that promise in writing. See the FAQ section below.
 
 ## What's already confirmed and safely reused (not invented)
 
@@ -135,24 +130,14 @@ company's warranty terms.
 
 ## 3. Commercial Furniture
 
-**Two versions below — pick whichever fits how you actually price commercial work.**
+**Pricing approach confirmed by Minda, 2026-09-21: priced individually per project, no published
+starting price.**
 
-### Option A — with a published starting price (matches the residential pages' pattern)
-
-The cost is calculated individually and depends on factors such as:
-**Prices from [£X — NEEDS A REAL FIGURE, or drop this line and use Option B]**
-- The scope of the project (a single item vs. a full fit-out)
-- The number of pieces required
-- The materials and finish specified
-- Site access, timescales, and installation complexity
-
-### Option B — no published floor, priced per project (common for B2B/commercial furniture)
+### Pricing, manufacturing time and warranty
 
 Commercial furniture is priced individually for every project — from a single reception desk to a
 full hotel fit-out, costs depend on scope, scale, and site requirements. Get in touch for a free
 consultation and quote.
-
-### Manufacturing time and warranty (either option)
 
 Manufacturing and installation timescales are agreed individually for each commercial project, taking
 into account the scope of work, site access, and any deadlines tied to a wider fit-out or opening date.
@@ -191,4 +176,5 @@ company's warranty terms.
   process facts used in the FAQ content.
 - `Research/2026-09-21_Amfa_Live-Site_Pre-Launch-Review.md` — where this gap was first identified.
 - Minda, in chat, 2026-09-21 — confirmed the Living & Media / Custom Storage manufacturing-time and
-  pricing figures ("Prepose accepted"), converting them from a proposed placeholder to a fact.
+  pricing figures ("Prepose accepted"), converting them from a proposed placeholder to a fact; also
+  chose the priced-per-project approach for Commercial Furniture over a published starting price.

@@ -6,30 +6,25 @@
 Solutions, and Commercial Furniture are the only 3 of 8 category pages without a pricing/warranty/FAQ
 section.
 **Brief:** Minda, 2026-09-21 — "let's work on pricing/warranty/FAQ section".
-**Status:** Ready for review — **two numeric inputs genuinely needed from Minda before this can go
-live** (see the callout below). Everything else is grounded in confirmed, already-published facts.
+**Status:** Living & Media and Custom Storage sections **confirmed by Minda, 2026-09-21** ("Prepose
+accepted") — the "4–8 weeks" / "from £1,500" figures are now treated as fact, not a placeholder.
+Commercial Furniture still needs Minda's choice between Option A/B and a decision on the deadline FAQ
+(see §3) before it's ready to go live.
 
 ---
 
-## Before anything else: what I need from you
+## Before anything else: what's still needed from you
 
-I've written the warranty wording and drafted FAQ content, but **I won't invent a manufacturing-time
-range or a "from £X" price** the way the other 5 category pages state one — those numbers aren't
-recorded anywhere I can check, and guessing a plausible-sounding figure would be exactly the kind of
-invented fact the charter rules out. Three things, please:
+Living & Media Furniture and Custom Storage Solutions are settled — see the confirmation note above.
+**Commercial Furniture is the only open item left:**
 
-1. **Living & Media Furniture** — manufacturing time and starting price. My best-guess placeholder
-   below is "4–8 weeks" / "from £1,500", matching the Wardrobe & Bedroom / Home Office / Hallway
-   pattern (similar fitted-furniture complexity) — **flag this as a proposal, not a fact**, until you
-   confirm or correct it.
-2. **Custom Storage Solutions** — same two numbers. Placeholder below is the same "4–8 weeks" / "from
-   £1,500", but this category is inherently more variable (a single alcove shelf vs. a whole-room
-   storage system), so the real range could differ more than the other categories.
-3. **Commercial Furniture — worth a different question first, not just a number.** Every other
-   category uses a simple "from £X" residential-style starting price. Commercial work (a single office
-   desk vs. a full hotel fit-out) is usually priced per project rather than from a published floor —
-   worth deciding whether this page should have a "from £X" figure at all, or state something like
-   "priced individually per project" instead. I've drafted it both ways below so you can pick.
+1. **Which pricing approach** — a published "from £X" starting price (Option A, matches how every
+   other category is written — needs a real figure from you), or no published floor, priced per
+   project instead (Option B, more typical for B2B/commercial furniture work, no number needed). Both
+   are drafted below.
+2. **The project-deadline FAQ answer** — held back deliberately rather than drafted, since publicly
+   promising to hit a commercial deadline (e.g. a hotel opening date) carries more weight than a
+   residential delivery date. Wanted your sign-off before committing to that in writing.
 
 ## What's already confirmed and safely reused (not invented)
 
@@ -51,8 +46,8 @@ install process, the free-quote model) — nothing category-specific is invented
 
 ### Manufacturing time, pricing and warranty
 
-The average manufacturing time for furniture is **[4–8 weeks — PROPOSED, confirm]** after the design
-and materials have been approved. Production time depends on:
+The average manufacturing time for furniture is **4–8 weeks** after the design and materials have
+been approved. Production time depends on:
 - The complexity of the project
 - The materials selected
 - Non-standard sizes
@@ -60,7 +55,7 @@ and materials have been approved. Production time depends on:
 - The availability of special order components
 
 The cost is calculated individually and depends on factors such as:
-**Prices from [£1,500 — PROPOSED, confirm]**
+**Prices from £1,500**
 - The size and scope of the piece (a single TV unit vs. a full media wall composition)
 - The materials selected
 - The finish options
@@ -85,7 +80,7 @@ Yes. If a full media wall isn't required, we can manufacture a custom TV unit in
 wall-mounted, freestanding, or a long modern console.
 
 **How long does manufacturing take?**
-On average, production takes **[4–8 weeks — PROPOSED, confirm]** after final design approval.
+On average, production takes **4–8 weeks** after final design approval.
 
 **Do you provide a warranty?**
 Yes. All furniture comes with a warranty covering workmanship and materials, in accordance with the
@@ -97,15 +92,15 @@ company's warranty terms.
 
 ### Manufacturing time, pricing and warranty
 
-The average manufacturing time is **[4–8 weeks — PROPOSED, confirm]** after the design and materials
-have been approved. Production time depends on:
+The average manufacturing time is **4–8 weeks** after the design and materials have been approved.
+Production time depends on:
 - The complexity and scale of the project
 - The materials selected
 - Non-standard sizes or an unusual space (alcoves, sloped ceilings, awkward corners)
 - The availability of special order components
 
 The cost is calculated individually and depends on factors such as:
-**Prices from [£1,500 — PROPOSED, confirm; this category may vary more than others]**
+**Prices from £1,500**
 - The size and scope of the storage solution
 - The materials selected
 - The complexity of the space being fitted
@@ -130,7 +125,7 @@ architectural features, intended use, and your storage requirements.
 Yes. We offer a complete service, from design and manufacturing through to professional installation.
 
 **How long does manufacturing take?**
-On average, production takes **[4–8 weeks — PROPOSED, confirm]** after final design approval.
+On average, production takes **4–8 weeks** after final design approval.
 
 **Do you provide a warranty?**
 Yes. All furniture comes with a warranty covering workmanship and materials, in accordance with the
@@ -195,3 +190,5 @@ company's warranty terms.
 - `Brand-and-Voice/Amfa-Furniture-Ltd.md` — the "Residential & commercial" differentiator and general
   process facts used in the FAQ content.
 - `Research/2026-09-21_Amfa_Live-Site_Pre-Launch-Review.md` — where this gap was first identified.
+- Minda, in chat, 2026-09-21 — confirmed the Living & Media / Custom Storage manufacturing-time and
+  pricing figures ("Prepose accepted"), converting them from a proposed placeholder to a fact.

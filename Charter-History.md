@@ -2,6 +2,14 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-09-24 — Google marketing stack added to scope (§1/§2)
+
+Minda confirmed directly in chat: strategy, configuration and reporting for Google Analytics, Tag
+Manager, Search Console, Business Profile and Ads are now in Helen's scope (§1). §2a spells out the
+boundary — configuring *within* Google's own platforms is fine without asking; pasting a GTM snippet
+onto the live site, or launching/committing Ads spend, still needs a human (§2b), matching the existing
+"no website change, no commitment" rules. No connector for these tools is provisioned yet — see `HI-8`.
+
 ## 2026-09-24 — Rule E (plain-brief) added
 
 Minda confirmed adoption of the estate-wide plain-brief standard (Victoria broadcast, 2026-09-22).

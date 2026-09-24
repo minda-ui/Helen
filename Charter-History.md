@@ -2,6 +2,14 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-09-24 — Rule E (plain-brief) added
+
+Minda confirmed adoption of the estate-wide plain-brief standard (Victoria broadcast, 2026-09-22).
+Folded into `Charter-Rules.md` as **Rule E**, not C, to avoid overwriting the existing Rule C (verify
+against system of record) — matches the estate's converged answer (Hub `HL-0046`). `Raw/` note
+archived to `Archive/2026-09-22_amendment_group-Rule-C-plain-brief.md`; `AWT-0067` closed Done,
+`HL-0047` closed Resolved. See `HI-7`.
+
 ## 2026-09-23 — Charter split into core / rules / history
 
 Adopted Alex's proposal (`AWT-0079`, `Raw/2026-09-23_proposal_charter-split-core-rules-history.md`,

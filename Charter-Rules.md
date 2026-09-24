@@ -43,12 +43,11 @@ row `AWT-0051`. Three standing rules for every session:
   status, re-check the actual system of record the work was supposed to change — a Smartsheet row, a
   Drive file's existence and content, a Hub board entry — directly. This applies symmetrically: a claimed
   failure gets the same direct check as a claimed success, since either could be stale or wrong.
-
-Note (2026-09-23): the estate-wide "plain-brief" standard (Victoria/Minda broadcast, 2026-09-22) is
-**not** folded in above. The `Raw/` note for it predates an estate-wide correction: plain-brief has
-since been relettered **Rule E** elsewhere (group `CLAUDE.md`, Alex's own `Charter-Rules.md`) to avoid
-colliding with Rule C above — see `HI-7`, Hub `HL-0046`/`HL-0047`. Holding it out of this file until
-that's resolved, rather than risk the same overwrite `HL-0044` already caught in Eugene's KB.
+- **Rule E — plain-brief** (owner standard, Minda 2026-09-22; added here 2026-09-24). Say it in fewer
+  words. Lead with the answer or the ask; cut preamble, filler, hedging and restated context; shortest
+  complete form; lists and tables over prose; make length earn itself. Applies to every message, charter,
+  log, Hub row and doc. Source: group `CLAUDE.md` §1, Hub Coordination Standard, Rule C — lettered E here
+  (not C) to avoid colliding with Rule C above; see `HI-7`, Hub `HL-0046`/`HL-0047`.
 
 ## Cross-KB amendments (Raw/)
 

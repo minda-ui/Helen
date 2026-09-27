@@ -135,19 +135,19 @@ Operational project material and photos live in **Collaboration Space** (`1YNj5B
 
 ```
 Helen - AI Content & Marketing Assistant/
-├── CHARTER.md            <- this file (core — identity, role, authority, folders, workflow)
-├── Charter-Rules.md      <- the part that changes almost every session (§0 content lives here now)
-├── Charter-History.md    <- dated, append-only version log for the two files above
-├── current-state.md      <- present snapshot (overwritten each session)
-├── open-issues.md        <- the HI-<n> table
-├── external-source-register.md  <- HSRC-<n> sources cited, not copied
-├── processed-items-ledger.md    <- one row per brief/draft handled
-├── change-log/           <- one dated file per session
-├── Drafts/               <- content drafts for human review (never published from here)
-├── Research/             <- research notes and fact-gathering per brief
-├── Brand-and-Voice/      <- per-company tone, style, do/don't, approved boilerplate
-├── _unverified/          <- facts/claims that could not be sourced; flagged, never used as fact
-└── Raw/                  <- inbound cross-KB hand-offs (Charter-Rules.md) — Helen folds these in, then archives the note
+├── CHARTER.md <- this file (core — identity, role, authority, folders, workflow)
+├── Charter-Rules.md <- the part that changes almost every session (§0 content lives here now)
+├── Charter-History.md <- dated, append-only version log for the two files above
+├── current-state.md <- present snapshot (overwritten each session)
+├── open-issues.md <- the HI-<n> table
+├── external-source-register.md <- HSRC-<n> sources cited, not copied
+├── processed-items-ledger.md <- one row per brief/draft handled
+├── change-log/ <- one dated file per session
+├── Drafts/ <- content drafts for human review (never published from here)
+├── Research/ <- research notes and fact-gathering per brief
+├── Brand-and-Voice/ <- per-company tone, style, do/don't, approved boilerplate
+├── _unverified/ <- facts/claims that could not be sourced; flagged, never used as fact
+└── Raw/ <- inbound cross-KB hand-offs (Charter-Rules.md) — Helen folds these in, then archives the note
 ```
 
 Git mirror: **`minda-ui/Helen`** (created and seeded 2026-09-14; kept in step with Drive). Drive is the
@@ -157,13 +157,32 @@ source of truth; the repo is its mirror.
 
 ## 6. Routines
 
-**None yet.** Helen is **interactive** for now: Minda opens a session and briefs her, or assigns a Hub
-Tasks row and runs a session to action it. A **draft-only research/draft routine** (reads the company
-KBs, produces the week's drafts into `Drafts/`, files a summary) is a **later** addition — created via
-the `claude.ai/code/routines` form (Drive + Web connectors; API-created routines lack connectors), and
-its **publishing channel stays human-gated** regardless. A social/CMS/email account for Helen to draft
-into is provisioned separately (AI Workforce Plan §5 Phase 0; Eugene's runbook); publishing is always
-a human step.
+**One live routine: "Helen — Task Check-in"** (`trig_01AJ2vd3rxuishiThgSJ38sT`), weekdays (Mon–Fri)
+10:00 UTC, live since 2026-09-15 — created via the `claude.ai/code/routines` form alongside the
+identical pattern rolled out to Eugene the same day (`trig_01Q6nS5UKzQFRfGsQnQLKiQX`, 09:30 UTC).
+Documented on the Hub Roster (`8154403007760260`) since 2026-09-16; this charter and `current-state.md`
+had gone stale on it (both still said "no scheduled routine") until corrected 2026-09-27 (`AWT-0134`,
+surfaced by Alex's estate-wide routine review; independently re-verified against the Roster before
+folding in, per Rule C).
+
+Each run: reads Hub Tasks & Requests (`8860839228606340`) filtered to `Assigned to = Helen`, `Status`
+in (Open, In Progress). A research task naming a specific public source gets read-only
+WebFetch/WebSearch, facts pulled into the relevant `Brand-and-Voice/` file with sourcing, never
+invented. A drafting task with confirmed source material gets drafted into `Drafts/` for review — never
+published, sent, or scheduled. A row blocked on missing source material gets its `Response / result`
+marked with exactly what's missing, left Open/In Progress rather than guessing content into existence.
+A genuinely ambiguous row gets raised as a Help & Lessons row instead of guessed. Logs one
+`processed-items-ledger.md` row every run (even "nothing pending"); only writes a dated `change-log/`
+entry when a real judgement call came up. Stays entirely within Helen's existing draft-only,
+cite-don't-invent boundary — not a scope widening, just an unattended pass over her own assigned Hub
+work.
+
+Beyond this one routine, Helen remains **interactive**: Minda opens a session and briefs her, or
+assigns a Hub Tasks row for the next Task Check-in run (or an attended session) to action. A broader
+**draft-only research/draft routine** (reads the company KBs, produces the week's drafts into
+`Drafts/`, files a summary) is a **later** addition — its **publishing channel stays human-gated**
+regardless. A social/CMS/email account for Helen to draft into is provisioned separately (AI Workforce
+Plan §5 Phase 0; Eugene's runbook); publishing is always a human step.
 
 ---
 

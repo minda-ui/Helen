@@ -2,6 +2,14 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-09-27 — Rule F added (shared-space changes are broadcast and registered)
+
+Estate-wide, owner-approved (Minda, 2026-09-27, via Alex's `Raw/`-hand-off, `2026-09-27_Handoff_Rule-F-Shared-Space-Broadcast-Register.md`) — "make it as rule across estate, if someone make a changed in shared space (Smartsheet's or similiar) need to notify everyone and register it." Folded into `Charter-Rules.md` as **Rule F**, next to Rules A–C/E. `AWT-0146` closed Done on the Hub. Note archived; a companion informational note (`2026-09-27_Broadcast_Hub-Changes-Today.md` — Tasks & Requests split into a live sheet + new Archive sheet `1037721118312324`) reviewed alongside it, no charter action needed from that one, also archived.
+
+## 2026-09-27 — Routine documentation gap fixed (§6)
+
+Alex's estate-wide routine review (`Raw/2026-09-27_proposal_task-checkin-routine-documentation-gap.md`, `AWT-0134`) found that `CHARTER.md` §6 and `current-state.md` both still said "no scheduled routine yet", while a "Helen — Task Check-in" routine (`trig_01AJ2vd3rxuishiThgSJ38sT`, weekdays 10:00 UTC) has actually been live since 2026-09-15. Independently verified against the Hub Roster (`8154403007760260`, documented there since 2026-09-16, same pattern as Eugene's) before folding in, per Rule C — a direct `get_trigger` lookup returned not-found, expected since the routine belongs to a different session lineage than this one, not evidence against it. `CHARTER.md` §6 rewritten to document the routine (trigger id, cadence, what it reads/writes, boundary); `current-state.md`'s Mode field corrected to match. `AWT-0134` closed Done on the Hub. Note archived.
+
 ## 2026-09-24 — Google marketing stack added to scope (§1/§2)
 
 Minda confirmed directly in chat: strategy, configuration and reporting for Google Analytics, Tag

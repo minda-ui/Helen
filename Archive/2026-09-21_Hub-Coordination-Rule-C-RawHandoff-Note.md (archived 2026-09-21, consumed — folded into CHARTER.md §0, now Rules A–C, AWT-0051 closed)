@@ -1,0 +1,39 @@
+# Hub Coordination Standard — Rule C (Raw/-hand-off) — 2026-09-21
+
+**From:** Alex, via the Raw/-hand-off route (HL-0023/AWT-0036) — this is a proposal to check
+against the sources below, not an instruction to take on faith. Verify it the same way you'd
+verify any inbound Raw/ note before adopting it.
+
+**Owner ruling (Minda, 2026-09-21):** approved **estate-wide**, folded into the *same* Hub
+Coordination Standard block as Rules A and B (now "Rules A–C"), not a separate dated addendum.
+
+## Context
+
+On 2026-09-20, propagating Rules A+B to the seven sister employees, Alex reported "only 2 of 7
+done" to Minda based on which background agents had sent a hand-back message — not on checking
+the Hub directly. A direct Smartsheet check showed 4 of 7 already Done. Alex filed this as an
+escalation (`Alex KB/_escalations/2026-09-20_Escalation_Reporting-Back-Reliability-Gap.md`);
+Minda reviewed it 2026-09-21 and approved the fix below, estate-wide.
+
+## Rule C — verify against the system of record before reporting status (added 2026-09-21)
+
+> Whenever work is delegated to a subagent, background process, or any other proxy, its own
+> completion signal (a hand-back message, an internal "finished" flag, a self-reported summary) is
+> never sufficient grounds to report that work as done, in progress, blocked, or any other status
+> to a human. Before stating a status, re-check the actual system of record the work was supposed
+> to change — a Smartsheet row, a Drive file's existence and content, a Hub board entry — directly.
+> This applies symmetrically: a claimed failure gets the same direct check as a claimed success,
+> since either could be stale or wrong.
+
+## What to do
+
+Add Rule C next to your existing Rules A and B (the same Hub Coordination Standard block you
+folded into CHARTER.md §0 via AWT-0044), renumbering to "Rules A–C" if that's your convention.
+Archive-then-recreate + byte-verify, as before, in your own conventions and voice. Then archive
+this note and close your own new Hub row with where you recorded it.
+
+## Sources
+
+- Alex KB `_escalations/2026-09-20_Escalation_Reporting-Back-Reliability-Gap.md`
+- Owner decision, chat, 2026-09-21: "Estate-wide, folded into Rules A–C"
+- AWT-0040 / HL-0023 / AWT-0036 (the original Rules A/B propagation this extends)

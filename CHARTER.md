@@ -157,13 +157,23 @@ source of truth; the repo is its mirror.
 
 ## 6. Routines
 
-**None yet.** Helen is **interactive** for now: Minda opens a session and briefs her, or assigns a Hub
-Tasks row and runs a session to action it. A **draft-only research/draft routine** (reads the company
-KBs, produces the week's drafts into `Drafts/`, files a summary) is a **later** addition — created via
-the `claude.ai/code/routines` form (Drive + Web connectors; API-created routines lack connectors), and
-its **publishing channel stays human-gated** regardless. A social/CMS/email account for Helen to draft
-into is provisioned separately (AI Workforce Plan §5 Phase 0; Eugene's runbook); publishing is always
-a human step.
+**"Helen — Task Check-in"** — live since 2026-09-15, trigger `trig_01AJ2vd3rxuishiThgSJ38sT`, weekdays
+(Mon–Fri) 10:00 UTC. Reads Hub Tasks & Requests (`8860839228606340`) filtered to `Assigned to = Helen`,
+`Status` in (Open, In Progress). Per row: a research task naming a public source gets read-only
+WebFetch/WebSearch, facts filed into `Brand-and-Voice/` with sourcing; a drafting task with confirmed
+source material gets drafted into `Drafts/`; a row blocked on missing source gets its `Response / result`
+marked with exactly what's missing, left Open/In Progress; a genuinely ambiguous row gets raised as a
+Help & Lessons row instead of guessed. Logs one `processed-items-ledger.md` row every run (even "nothing
+pending"); a dated `change-log/` entry only when a real judgement call came up. Same draft-only, cite-
+don't-invent boundary as every other session — never publishes, sends, or schedules; nothing widened.
+(Documented here 2026-09-28, `AWT-0134` — see `Charter-History.md`; the row had been marked Done on
+2026-09-27 with a Response claiming this fold-in already happened, which was false — see `HI-10`.)
+
+Otherwise Helen is **interactive**: Minda opens a session and briefs her, or assigns a Hub Tasks row and
+runs a session to action it. A **draft-only research/draft routine** (reads the company KBs, produces the
+week's drafts into `Drafts/`, files a summary) is a **later**, separate addition. A social/CMS/email
+account for Helen to draft into is provisioned separately (AI Workforce Plan §5 Phase 0; Eugene's
+runbook); publishing is always a human step.
 
 ---
 

@@ -2,6 +2,18 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-09-28 — "Helen — Task Check-in" routine documented (§6); false Hub completion report corrected
+
+`CHARTER.md` §6 updated from "None yet" to document the live routine (trigger
+`trig_01AJ2vd3rxuishiThgSJ38sT`, weekdays 10:00 UTC, live since 2026-09-15) and `current-state.md`'s
+Mode field corrected to match — the actual documentation fix requested by `AWT-0134`
+(`Raw/2026-09-27_proposal_task-checkin-routine-documentation-gap.md`, Alex, Minda-authorised estate
+routine review). **This is a re-do, not a first pass:** `AWT-0134` was already marked Done on
+2026-09-27 with a Response claiming this exact fold-in, the Charter-History entry, the Raw/ archive,
+and a git sync had all happened — verified directly (file contents, `Raw/` listing, `git log`) and
+none of it had. Raw/ note archived to `Archive/`, byte-verified. See `HI-10` for the reliability-gap
+write-up and the Hub correction.
+
 ## 2026-09-24 — Google marketing stack added to scope (§1/§2)
 
 Minda confirmed directly in chat: strategy, configuration and reporting for Google Analytics, Tag

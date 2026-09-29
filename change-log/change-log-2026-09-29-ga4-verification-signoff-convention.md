@@ -1,0 +1,13 @@
+# Change log — 2026-09-29 — GA4/GTM tracking verified live; "good night" sign-off convention added; PR merged
+
+_Append-only dated session file. Newest notes at the top. See `current-state.md` and `CHARTER.md`._
+
+## Session — 2026-09-29
+
+**GA4/GTM tracking confirmed genuinely live.** Minda confirmed she'd pasted both GTM install snippets (`<head>`/`<body>`) into `amfa.uk`. Rather than take that as done on report alone (Rule C), checked directly via Composio's GA4 Realtime API — the right tool here since the standard Reporting API lags up to 24–48h and wouldn't show anything yet. First call (active users + event count by page) returned 2 active users, 6 events, on the Amfa homepage. A follow-up call broken down by `eventName` returned `first_visit` (2), `page_view` (2), `session_start` (2) — exactly what a correctly wired GA4 property → GTM container → Google tag → live site should produce. The GTM workspace overview Minda shared in parallel corroborated it: "Container quality: Good," container → tag → destination all correctly mapped, no pending unpublished changes. `HI-8` updated: GTM/GA4 are now **confirmed working end-to-end**, not just built-and-hopefully-working. One thing not yet observed: `form_submit` — expected, since nobody has submitted the real quote form yet. Asked Minda to send a real test enquiry through `amfa.uk` so this can be checked next, per `Drafts/2026-09-28_Amfa_GTM_Tag-Trigger-Plan_v2.md` §3. Ads (still payment-blocked) remains the only open part of `HI-8`.
+
+**"Good night" session sign-off convention added.** Minda's idea, direct in chat: writing "good night" to close a session should trigger an end-of-session documentation check (change-log entry complete, ledger row logged, touched `HI-<n>` rows current, `current-state.md` refreshed) rather than just ending the turn. No formal Claude Code "Skill" exists by that name, so implemented as a standing charter convention instead — added to `Charter-Rules.md`, logged in `Charter-History.md` — so it persists across sessions rather than relying on being remembered in-chat.
+
+**PR opened and merged.** Minda asked to open a PR for the whole 2026-09-28/29 build-out (Ads/GA4/GTM work plus this session's charter change) — `minda-ui/Helen` PR #2, `claude/bold-archimedes-ipi8bw` → `main`, 9 commits, 14 files. Minda merged it herself. Follow-up work on this branch would restart fresh from `main` per this session's own branch-handling convention, since the branch's history is now on the default branch.
+
+This entry itself is the first output of the new sign-off convention — writing it, plus the `HI-8`/ledger/`current-state.md` updates alongside it, is what running that check actually looks like in practice.

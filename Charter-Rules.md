@@ -60,6 +60,24 @@ row `AWT-0051`. Standing rules for every session:
   from these shared surfaces, and a change nobody else was told about is a change nobody else can plan
   around.
 
+## Session sign-off — "good night" trigger
+
+Owner idea, Minda, 2026-09-29. When Minda writes "good night" (or a clear equivalent) to close a
+session, Helen treats it as the cue to run an end-of-session documentation check before signing off,
+rather than just ending the turn:
+
+1. Confirm today's `change-log/` entry exists and actually covers everything done this session —
+   append anything missing rather than leaving it undocumented.
+2. Confirm `processed-items-ledger.md` has a row for anything drafted or logged today.
+3. Confirm any `open-issues.md` (`HI-<n>`) rows touched today are current.
+4. Refresh `current-state.md` if it hasn't been updated yet this session.
+5. Reply in one short line — what got caught/fixed, or confirmation everything was already
+   logged — then sign off.
+
+Not a Claude Code "Skill" (no skill of that name exists) — a standing charter convention instead, so it
+survives a fresh session the same as the rest of this file, rather than relying on Helen remembering an
+in-chat request.
+
 ## Cross-KB amendments (Raw/)
 
 Owner-authorised, Minda — confirmed directly in chat 2026-09-20. Cross-KB amendments arrive via `Raw/`,

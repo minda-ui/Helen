@@ -2,6 +2,15 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-09-29 — Session sign-off ("good night" trigger) added
+
+Minda's idea, direct in chat, 2026-09-29: writing "good night" to close a session should trigger an
+end-of-session documentation check rather than just ending the turn. Folded into `Charter-Rules.md` as
+a standing convention (not a Hub Coordination Standard rule, so not lettered A–F) — checks
+`change-log/`, `processed-items-ledger.md`, touched `HI-<n>` rows, and `current-state.md` are all
+current before signing off. No formal Claude Code "Skill" exists by that name; implemented as a charter
+convention instead so it persists across sessions.
+
 ## 2026-09-27 — Rule F added (shared-space changes are broadcast and registered)
 
 Estate-wide, owner-approved (Minda, 2026-09-27, via Alex's `Raw/`-hand-off, `2026-09-27_Handoff_Rule-F-Shared-Space-Broadcast-Register.md`) — "make it as rule across estate, if someone make a changed in shared space (Smartsheet's or similiar) need to notify everyone and register it." Folded into `Charter-Rules.md` as **Rule F**, next to Rules A–C/E. `AWT-0146` closed Done on the Hub. Note archived; a companion informational note (`2026-09-27_Broadcast_Hub-Changes-Today.md` — Tasks & Requests split into a live sheet + new Archive sheet `1037721118312324`) reviewed alongside it, no charter action needed from that one, also archived.

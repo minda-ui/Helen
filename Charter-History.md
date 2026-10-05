@@ -2,6 +2,21 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-10-04 — Second routine added (§6); CHARTER.md restored after being misfiled
+
+Minda asked directly for a recurring Google Ads performance check. Added "Helen — Amfa Google Ads
+Performance Check" (`trig_01GM29cwxU5S2ctxAkUYC885`, every 2 days, 08:47 Europe/London) to `CHARTER.md`
+§6 alongside the existing Task Check-in routine — reads campaign performance via the Composio Google
+Ads connection, logs findings to `HI-8`, read/report-only (charter §2b still governs any resulting
+keyword/bid-strategy change).
+
+While syncing this, found `CHARTER.md` itself had gone missing from the KB root — moved into `Archive/`
+on 2026-09-30 and mislabeled as "superseded by split into Charter-History.md and Charter-Rules.md," a
+rationale that doesn't hold (the split happened 2026-09-23 and made all three files permanent siblings;
+`CHARTER.md` was never redundant). Cause unknown — no attribution available from Drive metadata alone.
+Restored to the root with its correct title, carrying this session's §6 update in the same restore. See
+`HI-11` for the full finding; the misfiled Archive/ copy was left as-is, untouched beyond discovery.
+
 ## 2026-09-29 — Session sign-off ("good night" trigger) added
 
 Minda's idea, direct in chat, 2026-09-29: writing "good night" to close a session should trigger an

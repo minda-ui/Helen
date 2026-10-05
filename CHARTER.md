@@ -157,7 +157,9 @@ source of truth; the repo is its mirror.
 
 ## 6. Routines
 
-**One live routine: "Helen — Task Check-in"** (`trig_01AJ2vd3rxuishiThgSJ38sT`), weekdays (Mon–Fri)
+**Two live routines.**
+
+**"Helen — Task Check-in"** (`trig_01AJ2vd3rxuishiThgSJ38sT`), weekdays (Mon–Fri)
 10:00 UTC, live since 2026-09-15 — created via the `claude.ai/code/routines` form alongside the
 identical pattern rolled out to Eugene the same day (`trig_01Q6nS5UKzQFRfGsQnQLKiQX`, 09:30 UTC).
 Documented on the Hub Roster (`8154403007760260`) since 2026-09-16; this charter and `current-state.md`
@@ -177,7 +179,20 @@ entry when a real judgement call came up. Stays entirely within Helen's existing
 cite-don't-invent boundary — not a scope widening, just an unattended pass over her own assigned Hub
 work.
 
-Beyond this one routine, Helen remains **interactive**: Minda opens a session and briefs her, or
+**"Helen — Amfa Google Ads Performance Check"** (`trig_01GM29cwxU5S2ctxAkUYC885`), every 2 days
+(`*/2` on day-of-month — a close approximation of "every 2 days", with a small wobble at month
+boundaries), 08:47 Europe/London, live since 2026-10-04 (Minda's direct ask, same session). Each run:
+pulls a fresh performance snapshot (impressions, clicks, cost, conversions) for the live Amfa "Bespoke
+Kitchens" Search campaign via the Composio Google Ads connection (`helen-googleads`), re-checks
+keyword-level `systemServingStatus` for anything newly `RARELY_SERVED`/`LIMITED`, and flags if
+impressions/spend stay flat or if spend builds with no conversions once `form_submit` tracking is live.
+Logs a dated update to `HI-8` in `open-issues.md` every run — brief if nothing changed, fuller if a
+real finding or judgement call came up. Read/report-only against a live ad account the campaign plan
+and build already exist for (`HI-8`); doesn't launch anything new or change spend on its own — any
+keyword/bid-strategy change it recommends goes to Minda, same as every other Ads decision (charter
+§2b).
+
+Beyond these two routines, Helen remains **interactive**: Minda opens a session and briefs her, or
 assigns a Hub Tasks row for the next Task Check-in run (or an attended session) to action. A broader
 **draft-only research/draft routine** (reads the company KBs, produces the week's drafts into
 `Drafts/`, files a summary) is a **later** addition — its **publishing channel stays human-gated**

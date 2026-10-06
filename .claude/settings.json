@@ -9,6 +9,9 @@
       "Bash(composio execute GMAIL_*)",
       "Bash(composio execute GOOGLEDRIVE_DELETE_*)",
       "Bash(composio execute GOOGLEDRIVE_GOOGLE_DRIVE_DELETE_FOLDER_OR_FILE_ACTION*)"
+    ],
+    "ask": [
+      "Bash(composio execute GOOGLEADS_MUTATE_AD_GROUP_CRITERIA*)"
     ]
   },
   "enabledMcpjsonServers": [

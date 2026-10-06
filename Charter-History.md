@@ -2,6 +2,18 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-10-06 — Microsoft/Bing Advertising added to scope (§1/§2)
+
+Minda confirmed directly in chat, while discussing why Google Ads impressions were still at zero: wants
+to explore advertising on Bing too. Checked for a Composio/Microsoft Advertising connector first — none
+exists (confirmed via `composio search` and direct slug probes, same gap as Google Tag Manager
+originally) — then asked Minda to confirm scope before treating it as active work, matching the
+2026-09-24 precedent for the Google marketing stack. Confirmed. Added to `CHARTER.md` §1/§2a/§2b with
+the same boundary as the Google stack: Helen plans and configures within the Microsoft Advertising UI
+(guided, since there's no API access), including UET conversion-tag setup via the existing GTM
+container on `amfa.uk` (no site-code change needed); launching the campaign or committing spend still
+needs a human.
+
 ## 2026-10-04 — Second routine added (§6); CHARTER.md restored after being misfiled
 
 Minda asked directly for a recurring Google Ads performance check. Added "Helen — Amfa Google Ads

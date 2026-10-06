@@ -8,6 +8,8 @@
 
 **Correction, 2026-09-28:** while Minda was building the Bespoke Kitchens ad group live in Google Ads, several headlines and descriptions in §4 turned out to be over Google's actual character limits (30/headline, 90/description) — a counting error in the original draft, not a change in the underlying claims. All headlines/descriptions below have been re-counted character-by-character and corrected; nothing else in this plan changed. See `change-log/change-log-2026-09-28-googleads-composio-link-attempt.md` and the live build session for detail.
 
+**Update, 2026-10-04:** the Bespoke Kitchens campaign went live 2026-09-30 but drew 0 impressions/clicks over the first 5 days. Checked via the now-working Composio Google Ads connection (`HI-8`): account/billing/ad all healthy, but 3 of the original 4 keywords showed `systemServingStatus: RARELY_SERVED` — too low-volume for Google to actively bid on, leaving the campaign effectively running on one keyword. Added 6 broader keyword variants directly to the live ad group (same phrase-match convention, dropping the "Newcastle" qualifier on some since location targeting already restricts geography) — see §3 below, updated to match what's actually live.
+
 ---
 
 ## 0. Before spending anything — the live site has open issues
@@ -47,7 +49,7 @@ Recommend launching with the 4 "Launch" ad groups first, adding the rest once th
 
 | Ad group | Example keyword themes (phrase/exact match recommended over broad, to control spend) |
 |---|---|
-| Bespoke Kitchens | bespoke kitchens Newcastle, custom kitchen design Newcastle, bespoke kitchen manufacturer North East, made to measure kitchen Newcastle |
+| Bespoke Kitchens | bespoke kitchens Newcastle, custom kitchen design Newcastle, bespoke kitchen manufacturer North East, made to measure kitchen Newcastle, **bespoke kitchens, bespoke kitchen design, kitchen designer Newcastle, custom kitchen Newcastle, kitchen manufacturer Newcastle, non standard kitchen design** (10 live, 2026-10-04 — the original 4 were mostly `RARELY_SERVED`; the 6 bold additions broaden volume, grounded in the same confirmed facts: in-house manufacture, made-to-measure, non-standard layouts, Newcastle/North East base) |
 | Fitted Kitchens | fitted kitchens Newcastle, fitted kitchen company Newcastle, affordable fitted kitchens North East, new build kitchen fitting |
 | Wardrobe & Bedroom Storage | fitted wardrobes Newcastle, walk-in closet installation, sliding door wardrobes North East, bespoke bedroom furniture |
 | Bathroom Vanity Units | bathroom vanity unit Newcastle, custom bathroom furniture, bespoke vanity unit made to measure |

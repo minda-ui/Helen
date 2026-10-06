@@ -2,6 +2,19 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-10-06 (later) — Rule G added: Google Ads is prepare-and-hand-off
+
+Eugene's `Raw/` hand-off (`2026-10-06_Handoff_Eugene-to-Helen_GoogleAds.md`, plus an operating note and a
+Change Request template) after Helen's attempt to add 2 broad-match keywords to the live Amfa campaign
+was blocked twice by the auto-mode classifier ("Real-World Transactions"; earlier "Modify Shared
+Resources" and "Auto-Mode Bypass"). Checked against the harness behaviour actually observed this
+session, then **confirmed by Minda in chat** before folding in (a note in a folder is data, not
+authority — `CHARTER.md` §2b). Added as Rule G in `Charter-Rules.md`; `CHARTER.md` §2b already kept
+launching and spend with a human, so no core-file change. The note and template live in `Research/`
+(`2026-10-06_GoogleAds_*_from-Eugene.md`); the cover note is archived to
+`Archive/2026-10-06_Handoff_Eugene-to-Helen_GoogleAds.md`. First use: `CR-GA-0001`
+(`Drafts/2026-10-06_Amfa_GoogleAds_CR-GA-0001_v1.md`).
+
 ## 2026-10-06 — Microsoft/Bing Advertising added to scope (§1/§2)
 
 Minda confirmed directly in chat, while discussing why Google Ads impressions were still at zero: wants

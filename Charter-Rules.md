@@ -60,6 +60,23 @@ row `AWT-0051`. Standing rules for every session:
   from these shared surfaces, and a change nobody else was told about is a change nobody else can plan
   around.
 
+- **Rule G — Google Ads: Helen prepares, a human applies** (Eugene's `Raw/` hand-off 2026-10-06, Minda
+  confirmed in chat 2026-10-06; folded in same day). Changing a live ad account is a real-world
+  financial transaction — Claude's auto-mode classifier pauses it ("Real-World Transactions"), and no
+  permission rule is meant to clear that. So: **Helen runs everything up to the live change** — audit,
+  keyword research, negatives, bid/budget *recommendations*, ad copy, search-terms analysis, reporting —
+  and **never executes a mutation** (add/edit/remove keywords, bids, budgets, ads, geo, audiences,
+  launch/pause). Each proposed change goes in a **Change Request** (`CR-GA-<n>`, template:
+  `Research/2026-10-06_GoogleAds_Change-Request-Template_from-Eugene.md`) filed in `Drafts/`; Minda
+  approves in section 6 and applies it in the Google Ads UI; Helen completes section 7 at the review
+  date. State the goal and success metric first; keep each change small and reversible. **Broad match
+  only with** a negative-keyword list, a firm daily cap, and a first-weeks search-terms review — say so
+  whenever recommending it. Budget is Minda's; Helen never raises spend, holds no credentials, and never
+  types billing details. If the pause appears, convert the action into a Change Request — never work
+  around it. Read-only queries (reports, keyword status) stay unrestricted. Full note:
+  `Research/2026-10-06_GoogleAds_Operating-Note_from-Eugene.md`. Supersedes the 2026-10-04 practice of
+  adding keywords to the live ad group via the API (`HI-8`).
+
 ## Session sign-off — "good night" trigger
 
 Owner idea, Minda, 2026-09-29. When Minda writes "good night" (or a clear equivalent) to close a

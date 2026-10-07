@@ -72,6 +72,7 @@ Furniture (Office / Retail & shop fittings / Hotel & serviced apartment).
 | Materials | MFC (Melamine Faced Chipboard), MDF, moisture-resistant panels where needed, ABS edging, European soft-close hardware |
 | Warranty | Up to 10 years on furniture and hardware (manufacturing defects/workmanship, correct use/maintenance) |
 | Free measuring visit | Within 50 miles of the Newcastle showroom; further afield priced individually |
+| Delivery area | Within 50 miles of the Newcastle showroom (NE28 6HA); further afield discussed and priced individually (Minda, 2026-10-07). Matches the Google Ads 50-mile radius (`CR-GA-0002`) |
 | Manufacturing time | Kitchens 3–8 weeks · Home office/Hallway/Utility 4–8 weeks · Bathroom vanity 2–8 weeks (from design/material approval) |
 | Pricing floors | Kitchens from £2,000 · Home office from £1,500 · Hallway/Utility from £1,500 · Bathroom vanity from £1,000 (all bespoke-quoted, not fixed) |
 | Process | Consultation → Design & material selection (3D visualisation + PDF) → Manufacturing → Delivery & installation |

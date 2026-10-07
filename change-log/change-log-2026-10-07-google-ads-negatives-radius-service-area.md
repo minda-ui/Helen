@@ -8,3 +8,4 @@
 - Checked `amfa.uk` (15 pages) and `Brand-and-Voice/Amfa-Furniture-Ltd.md` for service-area wording: consistent with 50 miles. Gap: "full service area" (delivery) undefined on the process page. No site change made (no CMS access).
 - Logged to `open-issues.md` HI-8 and ledger row 33. Branch `claude/youthful-maxwell-9p6cig` (PR #5). Drive copies still pending (write blocked 2026-10-06).
 - **Later:** Minda confirmed delivery is within 50 miles. Drafted `Drafts/2026-10-07_Amfa_Delivery-Area-Wording-Fix_v1.md` (one change on `/process`, for the developer; not applied); added a "Delivery area" row to the Amfa brand file. Logged to HI-8, ledger row 34.
+- **Later:** Drafted `CR-GA-0003` (Wardrobes campaign) at Minda's ask — ledger row 35. Synced all Drive files from the repo after Minda authorised the upload (the earlier classifier block did not recur); sizes verified.

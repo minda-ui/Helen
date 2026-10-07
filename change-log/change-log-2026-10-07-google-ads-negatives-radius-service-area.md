@@ -7,3 +7,4 @@
 - Drafted CR-GA-0002 (radius); Minda briefed 40 miles, then 50. Guided her through Advanced search → Radius targeting. Verified: 1 PROXIMITY target, 50 miles, centre Wallsend NE28; 7 named locations kept; Presence-only not applied. CR updated.
 - Checked `amfa.uk` (15 pages) and `Brand-and-Voice/Amfa-Furniture-Ltd.md` for service-area wording: consistent with 50 miles. Gap: "full service area" (delivery) undefined on the process page. No site change made (no CMS access).
 - Logged to `open-issues.md` HI-8 and ledger row 33. Branch `claude/youthful-maxwell-9p6cig` (PR #5). Drive copies still pending (write blocked 2026-10-06).
+- **Later:** Minda confirmed delivery is within 50 miles. Drafted `Drafts/2026-10-07_Amfa_Delivery-Area-Wording-Fix_v1.md` (one change on `/process`, for the developer; not applied); added a "Delivery area" row to the Amfa brand file. Logged to HI-8, ledger row 34.

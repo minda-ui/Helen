@@ -1,6 +1,6 @@
 # Google Ads — Change Request CR-GA-0001
 
-**Status: approved by Minda 2026-10-07 — awaiting application in the Ads UI.** Nothing here has been applied yet. Helen prepares sections 1–5; Minda completes 6 and applies in the Google Ads UI; Helen completes 7 at the review date.
+**Status: approved 2026-10-07. Negatives applied and verified; broad keywords differ from §2 (see section 6).** Helen prepares sections 1–5; Minda completes 6 and applies in the Google Ads UI; Helen completes 7 at the review date.
 
 **Request ID:** CR-GA-0001 · **Date:** 2026-10-06 · **Prepared by:** Helen
 **Account:** AMFA Furniture Ltd (customer `1468068988`) · **Campaign:** Amfa - Bespoke Kitchens - Search · **Ad group:** the single Bespoke Kitchens ad group (id `207415860624`)
@@ -40,7 +40,7 @@
 ## 6. Approval (Minda)
 - **Decision:** ☒ Approve as-is ☐ Approve with edits (below) ☐ Hold / reject
 - **Edits / conditions:** ____
-- **Approved by:** Minda (said "Approve as-is" in chat, recorded by Helen) · **Date:** 2026-10-07 · **Applied (where/when):** not yet applied — Minda to apply in the Google Ads UI; Helen verifies read-only afterwards
+- **Approved by:** Minda (said "Approve as-is" in chat, recorded by Helen) · **Date:** 2026-10-07 · **Applied (where/when):** Item 3 (negatives) — applied by Minda in the Google Ads UI, 2026-10-07; verified read-only by Helen the same day: all 11 present, campaign level, phrase match, `ENABLED` (`jobs`, `job`, `careers`, `salary`, `apprenticeship`, `diy`, `free`, `second hand`, `used`, `ikea`, `b&q`); none at ad-group level. Items 1–2 (broad `bespoke kitchens`, `kitchen designer Newcastle`) — not applied as written; broad `bespoke kitchens newcastle` and `handmade kitchens newcastle` were added by Minda instead (seen 2026-10-07)
 
 ## 7. Post-apply check (Helen, at the review date)
 - **Result vs metric:** ____

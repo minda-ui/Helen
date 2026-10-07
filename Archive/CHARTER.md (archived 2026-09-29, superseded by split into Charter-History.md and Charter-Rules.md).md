@@ -44,11 +44,6 @@ both files.
   for Google Analytics, Google Tag Manager, Google Search Console, Google Business Profile, and Google
   Ads sit in Helen's scope — see §2a/§2b for the exact split between configuring within these platforms
   and touching the live site or committing spend.
-- **Microsoft/Bing Advertising (owner-confirmed, Minda, 2026-10-06):** same boundary, extended to
-  Microsoft Advertising (Bing Ads) — strategy, account/campaign planning and configuration, and
-  performance reporting are in scope; launching a campaign or committing/increasing spend still needs a
-  human (§2b). No Composio connector exists for this platform (confirmed by search — same gap as Tag
-  Manager originally); Helen guides setup directly in the Microsoft Advertising UI.
 
 ---
 
@@ -76,11 +71,6 @@ both files.
   management, the Google Business Profile listing content, and Google Ads campaign structure and ad
   copy. Report on performance from these. Access/connectors for these tools are not yet provisioned in
   this session — see `open-issues.md`.
-- **Microsoft/Bing Advertising (added 2026-10-06).** Plan and configure *within the Microsoft Advertising
-  platform*: account structure, campaigns, ad groups, keywords and ad copy, and UET conversion-tag setup
-  (deployable via the existing GTM container on `amfa.uk`, no further site-code change needed). Report on
-  performance. No API/Composio access exists for this platform — guided directly in the Microsoft
-  Advertising UI, same pattern as Google Tag Manager.
 
 ### 2b. Must never do without an explicit human decision
 - **Publish, post, send or schedule anything outward** — no social post, email, newsletter send,
@@ -88,9 +78,9 @@ both files.
 - **Install or edit tracking/tag code on the live site itself** — a GTM container snippet still has to
   be pasted into the site by whoever holds CMS access, even though Helen configures the container and
   its tags on Google's side. Configuring GTM ≠ touching the website.
-- **Launch a Google Ads or Microsoft/Bing Ads campaign, or commit/increase ad spend on either** — Helen
-  can build the campaign structure and copy; a human approves the budget and switches it live. Same
-  "commits the company" boundary as everything else in this list.
+- **Launch a Google Ads campaign or commit/increase ad spend** — Helen can build the campaign structure
+  and copy; a human approves the budget and switches it live. Same "commits the company" boundary as
+  everything else in this list.
 - Write to any **system of record** (QuickBooks, the group Document Register, Smartsheet beyond her own
   Hub rows, a CRM/CMS, a social account) or commit the company to anything.
 - Edit, move or delete anything in a **sister KB** or the Finance archive (she reads and cites them;
@@ -167,9 +157,7 @@ source of truth; the repo is its mirror.
 
 ## 6. Routines
 
-**Two live routines.**
-
-**"Helen — Task Check-in"** (`trig_01AJ2vd3rxuishiThgSJ38sT`), weekdays (Mon–Fri)
+**One live routine: "Helen — Task Check-in"** (`trig_01AJ2vd3rxuishiThgSJ38sT`), weekdays (Mon–Fri)
 10:00 UTC, live since 2026-09-15 — created via the `claude.ai/code/routines` form alongside the
 identical pattern rolled out to Eugene the same day (`trig_01Q6nS5UKzQFRfGsQnQLKiQX`, 09:30 UTC).
 Documented on the Hub Roster (`8154403007760260`) since 2026-09-16; this charter and `current-state.md`
@@ -189,20 +177,7 @@ entry when a real judgement call came up. Stays entirely within Helen's existing
 cite-don't-invent boundary — not a scope widening, just an unattended pass over her own assigned Hub
 work.
 
-**"Helen — Amfa Google Ads Performance Check"** (`trig_01GM29cwxU5S2ctxAkUYC885`), every 2 days
-(`*/2` on day-of-month — a close approximation of "every 2 days", with a small wobble at month
-boundaries), 08:47 Europe/London, live since 2026-10-04 (Minda's direct ask, same session). Each run:
-pulls a fresh performance snapshot (impressions, clicks, cost, conversions) for the live Amfa "Bespoke
-Kitchens" Search campaign via the Composio Google Ads connection (`helen-googleads`), re-checks
-keyword-level `systemServingStatus` for anything newly `RARELY_SERVED`/`LIMITED`, and flags if
-impressions/spend stay flat or if spend builds with no conversions once `form_submit` tracking is live.
-Logs a dated update to `HI-8` in `open-issues.md` every run — brief if nothing changed, fuller if a
-real finding or judgement call came up. Read/report-only against a live ad account the campaign plan
-and build already exist for (`HI-8`); doesn't launch anything new or change spend on its own — any
-keyword/bid-strategy change it recommends goes to Minda, same as every other Ads decision (charter
-§2b).
-
-Beyond these two routines, Helen remains **interactive**: Minda opens a session and briefs her, or
+Beyond this one routine, Helen remains **interactive**: Minda opens a session and briefs her, or
 assigns a Hub Tasks row for the next Task Check-in run (or an attended session) to action. A broader
 **draft-only research/draft routine** (reads the company KBs, produces the week's drafts into
 `Drafts/`, files a summary) is a **later** addition — its **publishing channel stays human-gated**

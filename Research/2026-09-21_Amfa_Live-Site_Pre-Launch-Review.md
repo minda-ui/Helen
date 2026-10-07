@@ -36,7 +36,7 @@
   solution for your space" call-to-action block, which is reused on **all 12 pages** (every category
   page, About, Portfolio, Process, and the homepage). One fix in the source template resolves all 12
   instances.
-- *"Media & Tv units" lowercase-v — still inconsistent, site-wide.** The mega-menu dropdown (reused
+- **"Media & Tv units" lowercase-v — still inconsistent, site-wide.** The mega-menu dropdown (reused
   on every page) still reads "Media & Tv units" in one nav instance while the correctly-capitalised
   "Media walls & TV units" appears elsewhere on the same pages (services list, footer). Same
   inconsistency flagged before, not yet standardised.
@@ -55,7 +55,7 @@ name-accuracy issue on a live, public page, not a cosmetic typo — worth priori
 **b) Cyrillic look-alike characters in three places (invisible on screen, real underneath).** Found by
 inspecting the raw page source rather than reading visually — these are Cyrillic Unicode characters
 (с U+0441, С U+0421) standing in for the visually-identical Latin "c"/"C", most likely a leftover from
-a Cyrillic-locale copy/paste (consistent with the Russian-named Главная страница.pdf` file noted in
+a Cyrillic-locale copy/paste (consistent with the Russian-named `Главная страница.pdf` file noted in
 the original PDF review):
 - Homepage + `/process`: "A **с**lear process, managed at every step" (Cyrillic с)
 - Homepage + `/custom-storage`: "**С**heck out all projects" (Cyrillic С)

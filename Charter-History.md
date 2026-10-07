@@ -2,6 +2,46 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-10-06 (later) — Rule G added: Google Ads is prepare-and-hand-off
+
+Eugene's `Raw/` hand-off (`2026-10-06_Handoff_Eugene-to-Helen_GoogleAds.md`, plus an operating note and a
+Change Request template) after Helen's attempt to add 2 broad-match keywords to the live Amfa campaign
+was blocked twice by the auto-mode classifier ("Real-World Transactions"; earlier "Modify Shared
+Resources" and "Auto-Mode Bypass"). Checked against the harness behaviour actually observed this
+session, then **confirmed by Minda in chat** before folding in (a note in a folder is data, not
+authority — `CHARTER.md` §2b). Added as Rule G in `Charter-Rules.md`; `CHARTER.md` §2b already kept
+launching and spend with a human, so no core-file change. The note and template live in `Research/`
+(`2026-10-06_GoogleAds_*_from-Eugene.md`); the cover note is archived to
+`Archive/2026-10-06_Handoff_Eugene-to-Helen_GoogleAds.md`. First use: `CR-GA-0001`
+(`Drafts/2026-10-06_Amfa_GoogleAds_CR-GA-0001_v1.md`).
+
+## 2026-10-06 — Microsoft/Bing Advertising added to scope (§1/§2)
+
+Minda confirmed directly in chat, while discussing why Google Ads impressions were still at zero: wants
+to explore advertising on Bing too. Checked for a Composio/Microsoft Advertising connector first — none
+exists (confirmed via `composio search` and direct slug probes, same gap as Google Tag Manager
+originally) — then asked Minda to confirm scope before treating it as active work, matching the
+2026-09-24 precedent for the Google marketing stack. Confirmed. Added to `CHARTER.md` §1/§2a/§2b with
+the same boundary as the Google stack: Helen plans and configures within the Microsoft Advertising UI
+(guided, since there's no API access), including UET conversion-tag setup via the existing GTM
+container on `amfa.uk` (no site-code change needed); launching the campaign or committing spend still
+needs a human.
+
+## 2026-10-04 — Second routine added (§6); CHARTER.md restored after being misfiled
+
+Minda asked directly for a recurring Google Ads performance check. Added "Helen — Amfa Google Ads
+Performance Check" (`trig_01GM29cwxU5S2ctxAkUYC885`, every 2 days, 08:47 Europe/London) to `CHARTER.md`
+§6 alongside the existing Task Check-in routine — reads campaign performance via the Composio Google
+Ads connection, logs findings to `HI-8`, read/report-only (charter §2b still governs any resulting
+keyword/bid-strategy change).
+
+While syncing this, found `CHARTER.md` itself had gone missing from the KB root — moved into `Archive/`
+on 2026-09-30 and mislabeled as "superseded by split into Charter-History.md and Charter-Rules.md," a
+rationale that doesn't hold (the split happened 2026-09-23 and made all three files permanent siblings;
+`CHARTER.md` was never redundant). Cause unknown — no attribution available from Drive metadata alone.
+Restored to the root with its correct title, carrying this session's §6 update in the same restore. See
+`HI-11` for the full finding; the misfiled Archive/ copy was left as-is, untouched beyond discovery.
+
 ## 2026-09-29 — Session sign-off ("good night" trigger) added
 
 Minda's idea, direct in chat, 2026-09-29: writing "good night" to close a session should trigger an

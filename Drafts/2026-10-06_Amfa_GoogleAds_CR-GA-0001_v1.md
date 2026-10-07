@@ -1,6 +1,6 @@
 # Google Ads — Change Request CR-GA-0001
 
-**Status: ready for Minda's review (section 6).** Nothing here has been applied. Helen prepares sections 1–5; Minda completes 6 and applies in the Google Ads UI; Helen completes 7 at the review date.
+**Status: approved by Minda 2026-10-07 — awaiting application in the Ads UI.** Nothing here has been applied yet. Helen prepares sections 1–5; Minda completes 6 and applies in the Google Ads UI; Helen completes 7 at the review date.
 
 **Request ID:** CR-GA-0001 · **Date:** 2026-10-06 · **Prepared by:** Helen
 **Account:** AMFA Furniture Ltd (customer `1468068988`) · **Campaign:** Amfa - Bespoke Kitchens - Search · **Ad group:** the single Bespoke Kitchens ad group (id `207415860624`)
@@ -38,9 +38,9 @@
 - Notes: ads still point at `amfa.uk`, where the 7 copy fixes (ledger rows 16/17) and legal-page placeholder fixes (row 20) are unapplied. Worth fixing before paying for more traffic.
 
 ## 6. Approval (Minda)
-- **Decision:** ☐ Approve as-is ☐ Approve with edits (below) ☐ Hold / reject
+- **Decision:** ☒ Approve as-is ☐ Approve with edits (below) ☐ Hold / reject
 - **Edits / conditions:** ____
-- **Approved by:** ____ · **Date:** ____ · **Applied (where/when):** ____
+- **Approved by:** Minda (said "Approve as-is" in chat, recorded by Helen) · **Date:** 2026-10-07 · **Applied (where/when):** not yet applied — Minda to apply in the Google Ads UI; Helen verifies read-only afterwards
 
 ## 7. Post-apply check (Helen, at the review date)
 - **Result vs metric:** ____

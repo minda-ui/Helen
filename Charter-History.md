@@ -2,6 +2,16 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-10-08 — "Good night" trigger extended: skill candidates
+
+Minda's request, in chat 2026-10-08: Helen collects skill candidates during the day's work; at "good
+night" she shows the list and Minda chooses which to adopt and which to delete. Added to the sign-off
+section of `Charter-Rules.md` (new step 5, plus a "Skill candidates" subsection) and a new control file
+`skill-candidates.md` (Pending / Decided). `CHARTER.md` §5 (folders) and §7 (control files) updated to
+list `skill-candidates.md` and the `Skills/` folder (created on first adoption). Seeded with 6
+candidates drawn from this week's repeated work (`SC-1`–`SC-6`); none adopted. Adoption and deletion are
+Minda's alone; a skill never widens `CHARTER.md` §2b or Rule G.
+
 ## 2026-10-06 (later) — Rule G added: Google Ads is prepare-and-hand-off
 
 Eugene's `Raw/` hand-off (`2026-10-06_Handoff_Eugene-to-Helen_GoogleAds.md`, plus an operating note and a

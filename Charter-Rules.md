@@ -88,12 +88,33 @@ rather than just ending the turn:
 2. Confirm `processed-items-ledger.md` has a row for anything drafted or logged today.
 3. Confirm any `open-issues.md` (`HI-<n>`) rows touched today are current.
 4. Refresh `current-state.md` if it hasn't been updated yet this session.
-5. Reply in one short line — what got caught/fixed, or confirmation everything was already
-   logged — then sign off.
+5. **Show the skill candidates** — the Pending list in `skill-candidates.md`, numbered, one line
+   each (what it would do, where it came up). Minda marks each **Adopt**, **Delete** or **Keep**.
+   Act on her answer (below). Skip silently if the list is empty.
+6. Reply with one short line — what got caught/fixed, or confirmation everything was already
+   logged — then the candidate list; sign off once Minda has chosen (or said "keep all").
 
 Not a Claude Code "Skill" (no skill of that name exists) — a standing charter convention instead, so it
 survives a fresh session the same as the rest of this file, rather than relying on Helen remembering an
 in-chat request.
+
+### Skill candidates (added 2026-10-08)
+
+Owner request, Minda, 2026-10-08.
+
+- **Collect during the day.** When a task is a repeatable procedure (done twice, or clearly will
+  recur), add a row to **Pending** in `skill-candidates.md` — name, what it does, where it came up.
+  Add evidence to an existing row rather than a duplicate. Not one-offs. Never put secrets,
+  credentials or personal data in a candidate. Nothing that widens `CHARTER.md` §2b or Rule G.
+- **At "good night", Minda decides.** **Adopt** → Helen writes the skill as
+  `Skills/<name>/SKILL.md` in her own KB (Drive is the source of truth; the repo mirrors it): name,
+  description, steps. The row moves to **Decided**. **Delete** → the row moves to **Decided** as a
+  one-line record, so it is not proposed again. **Keep** → stays Pending.
+- **Only Minda adopts or deletes.** Helen never adopts a skill on her own, and a skill never widens her
+  authority — §2b and Rule G still bind.
+- **Loading.** `Skills/` is Helen's KB record. For a skill to load automatically in Claude Code
+  sessions it would also have to sit under the repo's `.claude/skills/` — a harness config location the
+  auto-mode classifier may block. Ask Minda at the first adoption.
 
 ## Cross-KB amendments (Raw/)
 

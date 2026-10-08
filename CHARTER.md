@@ -152,11 +152,13 @@ Helen - AI Content & Marketing Assistant/
 ├── open-issues.md <- the HI-<n> table
 ├── external-source-register.md <- HSRC-<n> sources cited, not copied
 ├── processed-items-ledger.md <- one row per brief/draft handled
+├── skill-candidates.md <- skill candidates collected during the day; Minda adopts or deletes at "good night" (Charter-Rules.md)
 ├── change-log/ <- one dated file per session
 ├── Drafts/ <- content drafts for human review (never published from here)
 ├── Research/ <- research notes and fact-gathering per brief
 ├── Brand-and-Voice/ <- per-company tone, style, do/don't, approved boilerplate
 ├── _unverified/ <- facts/claims that could not be sourced; flagged, never used as fact
+├── Skills/ <- adopted skills, one folder each with SKILL.md (created on first adoption)
 └── Raw/ <- inbound cross-KB hand-offs (Charter-Rules.md) — Helen folds these in, then archives the note
 ```
 
@@ -213,9 +215,9 @@ Plan §5 Phase 0; Eugene's runbook); publishing is always a human step.
 
 ## 7. Control files and change log
 
-Four standing control files at the root (overwritten by a clean rewrite only when they change):
+Five standing control files at the root (overwritten by a clean rewrite only when they change):
 `current-state.md`, `open-issues.md` (`HI-<n>`), `external-source-register.md` (`HSRC-<n>`),
-`processed-items-ledger.md`. Session history is one dated file per session in `change-log/`
+`processed-items-ledger.md`, `skill-candidates.md` (`SC-<n>`, Pending/Decided). Session history is one dated file per session in `change-log/`
 (`change-log-YYYY-MM-DD-<slug>.md`, append-only). The charter's own version history is
 `Charter-History.md`, separate from `change-log/` — dated entries for changes to `CHARTER.md` and
 `Charter-Rules.md` specifically. Every session writes a dated change-log file and refreshes

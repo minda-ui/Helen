@@ -8,3 +8,4 @@
 - **Later:** at Minda's ask, wider read-only diagnostic sweep and an impressions plan: `Drafts/2026-10-09_Amfa_GoogleAds_Impressions-Plan_v1.md`. Ledger row 39, HI-8 updated. Nothing applied.
 - **Good-night check:** refreshed `current-state.md`; added SC-7 `session-logging` and extended SC-1 in `skill-candidates.md`; showed the skill-candidate list to Minda (decisions pending).
 - **Skills adopted:** Minda said "Adopt all SC". Wrote 7 skills under `Skills/` (Drive + git mirror), `skill-candidates.md` Pending cleared. Ledger row 40. Auto-load location (`.claude/skills/`) not touched — awaiting Minda.
+- **Skills auto-load:** at Minda's "Yes", copied `Skills/*` to `.claude/skills/` in the repo (Drive `Skills/` stays the source of truth); `Charter-Rules.md` "Loading" bullet updated.

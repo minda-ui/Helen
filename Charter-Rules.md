@@ -112,9 +112,9 @@ Owner request, Minda, 2026-10-08.
   one-line record, so it is not proposed again. **Keep** → stays Pending.
 - **Only Minda adopts or deletes.** Helen never adopts a skill on her own, and a skill never widens her
   authority — §2b and Rule G still bind.
-- **Loading.** `Skills/` is Helen's KB record. For a skill to load automatically in Claude Code
-  sessions it would also have to sit under the repo's `.claude/skills/` — a harness config location the
-  auto-mode classifier may block. Ask Minda at the first adoption.
+- **Loading (decided 2026-10-09).** `Skills/` in Drive is the source of truth. Each adopted skill is
+  also copied to the repo's `.claude/skills/<name>/` so Claude Code loads it automatically in sessions.
+  Keep the two copies identical; Drive wins if they differ.
 
 ## Cross-KB amendments (Raw/)
 

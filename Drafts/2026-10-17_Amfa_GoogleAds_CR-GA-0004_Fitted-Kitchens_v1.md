@@ -1,6 +1,6 @@
 # Google Ads — Change Request CR-GA-0004 (Fitted Kitchens ad group)
 
-**Status: ready for Minda's review (section 6).** Nothing here has been applied. Helen prepares sections 1–5; Minda completes 6 and applies in the Google Ads UI; Helen completes 7 at the review date.
+**Status: approved as-is by Minda 2026-10-17 — awaiting application in the Ads UI.** Nothing here has been applied yet. Helen prepares sections 1–5; Minda completes 6 and applies in the Google Ads UI; Helen completes 7 at the review date.
 
 **Request ID:** CR-GA-0004 · **Date:** 2026-10-17 · **Prepared by:** Helen
 **Account:** AMFA Furniture Ltd (customer `1468068988`) · **Campaign:** Amfa - Bespoke Kitchens - Search (existing) · **Ad group:** NEW — "Fitted Kitchens"
@@ -77,9 +77,9 @@ No broad match at launch. Lesson from the Bespoke ad group: several phrases went
   4. **Alongside:** `CR-GA-0003` (Wardrobes) is the other way to test different terms, and is still awaiting your section 6.
 
 ## 6. Approval (Minda)
-- **Decision:** ☐ Approve as-is ☐ Approve with edits (below) ☐ Hold / reject
-- **Edits / conditions:** ____
-- **Approved by:** ____ · **Date:** ____ · **Applied (where/when):** ____
+- **Decision:** ☒ Approve as-is ☐ Approve with edits (below) ☐ Hold / reject
+- **Edits / conditions:** none stated. Helen's open question — is "from £2,000" right for *fitted* kitchens? — was not answered separately; approval as-is is taken to accept the copy as written.
+- **Approved by:** Minda (said "Approve as-is" in chat, recorded by Helen) · **Date:** 2026-10-17 · **Applied (where/when):** not yet applied — Minda to apply in the Google Ads UI; Helen verifies read-only afterwards
 
 ## 7. Post-apply check (Helen, at the review dates)
 - **Result vs metric:** ____

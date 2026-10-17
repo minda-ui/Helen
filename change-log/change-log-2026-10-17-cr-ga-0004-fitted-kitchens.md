@@ -7,3 +7,4 @@
 - Plan copy changed: removed "Fitted in 3–8 Weeks" (site FAQ: production + installation 6–10 weeks), "Budget-Friendly, Built to Last", "Quality Kitchens, Fair Prices".
 - **Process note:** since 2026-10-06 Drive replacements were done by in-place overwrite (`UPLOAD_UPDATE_FILE`), not the estate's archive-then-recreate standard (skill `drive-sync-verified`). No data lost — every version is in git history and Drive revisions — but the old copies were not moved to `Archive/`. From today Drive writes use the estate script; `Skills/drive-git-mirror-sync` to be updated. Raised with Minda.
 - Logged to `open-issues.md` HI-8, ledger row 41. Nothing applied to the account.
+- **Later:** Minda said "Approve as-is" for CR-GA-0004. Recorded in section 6; not yet applied. Her answer on "from £2,000" for fitted kitchens was not given separately — approval taken as accepting the copy as written.

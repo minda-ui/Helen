@@ -6,7 +6,7 @@ _Collected during the day's work; reviewed at "good night" (`Charter-Rules.md`, 
 
 | ID | Added | Candidate | What it would do | Evidence (where it came up) |
 |---|---|---|---|---|
-| SC-8 | 2026-10-17 | `ads-ui-apply-guide` | Walk Minda through applying an approved CR in the Google Ads UI, one screen at a time from her screenshots: confirm the right screen and `campaignId` in the URL, paste text from the CR, clear Google's AI prefills and AI-suggested sitelinks, fix the final URL (defaults to the homepage), check keyword and ad text against the CR line by line, then verify what was actually saved with a read-only query and record any differences in the CR | `CR-GA-0001/0002/0004`; 2026-10-17 caught the wrong screen (New campaign), homepage final URL, AI prefills and an empty ad group after the first save |
+| — | — | none pending | — | — |
 
 ## Decided
 
@@ -19,3 +19,4 @@ _Collected during the day's work; reviewed at "good night" (`Charter-Rules.md`, 
 | SC-5 | 2026-10-09 | **Adopted** (Minda: "Adopt all SC") | `composio-cli-setup` → `Skills/composio-cli-setup/SKILL.md` |
 | SC-6 | 2026-10-09 | **Adopted** (Minda: "Adopt all SC") | `raw-handoff-intake` → `Skills/raw-handoff-intake/SKILL.md` |
 | SC-7 | 2026-10-09 | **Adopted** (Minda: "Adopt all SC") | `session-logging` → `Skills/session-logging/SKILL.md` |
+| SC-8 | 2026-10-17 | **Adopted** (Minda, 2026-10-17: "SC-08 adopt") | `ads-ui-apply-guide` → `Skills/ads-ui-apply-guide/SKILL.md` |

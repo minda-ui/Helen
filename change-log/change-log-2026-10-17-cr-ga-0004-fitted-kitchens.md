@@ -12,3 +12,4 @@
 - **Verification found:** the first save created the ad group and ad with **0 keywords**; Minda added the 7 afterwards (4 `ELIGIBLE`, 3 `RARELY_SERVED`). Negatives `cheap`, `flat pack`, `flatpack` were added at ad-group level, broad match, instead of campaign-level phrase — recorded in CR section 6, left as is (narrower effect, no harm).
 - Logged to HI-8, ledger row 42. Next: read-only check ~2026-10-19; reviews 10-24 and 10-31.
 - **Good-night check:** refreshed `current-state.md`; added SC-8 `ads-ui-apply-guide` to `skill-candidates.md`; showed the candidate list to Minda.
+- **Later:** Minda asked about Hub row `AWT-0789` — read it: assigned to Rachel (Finance, Revolut expenses notice, bank sender outside the Finance Raw-receipt grant), related to AWT-0790; not Helen's, no action taken. Minda then adopted SC-8: wrote `Skills/ads-ui-apply-guide/SKILL.md` (+ `.claude/skills/` copy); `skill-candidates.md` Pending cleared; ledger row 43.

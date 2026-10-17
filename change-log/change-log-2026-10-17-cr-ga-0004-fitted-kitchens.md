@@ -11,3 +11,4 @@
 - **Applied:** Minda built CR-GA-0004 in the Ads UI with step-by-step screenshot guidance. Caught and corrected along the way: she opened "New campaign" (wrong screen) twice — redirected to Ad groups; the ad's final URL defaulted to the homepage and the headlines/descriptions to Google AI prefills — both fixed before saving; 3 AI sitelinks removed.
 - **Verification found:** the first save created the ad group and ad with **0 keywords**; Minda added the 7 afterwards (4 `ELIGIBLE`, 3 `RARELY_SERVED`). Negatives `cheap`, `flat pack`, `flatpack` were added at ad-group level, broad match, instead of campaign-level phrase — recorded in CR section 6, left as is (narrower effect, no harm).
 - Logged to HI-8, ledger row 42. Next: read-only check ~2026-10-19; reviews 10-24 and 10-31.
+- **Good-night check:** refreshed `current-state.md`; added SC-8 `ads-ui-apply-guide` to `skill-candidates.md`; showed the candidate list to Minda.

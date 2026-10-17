@@ -6,7 +6,7 @@ _Collected during the day's work; reviewed at "good night" (`Charter-Rules.md`, 
 
 | ID | Added | Candidate | What it would do | Evidence (where it came up) |
 |---|---|---|---|---|
-| — | — | none pending | — | — |
+| SC-8 | 2026-10-17 | `ads-ui-apply-guide` | Walk Minda through applying an approved CR in the Google Ads UI, one screen at a time from her screenshots: confirm the right screen and `campaignId` in the URL, paste text from the CR, clear Google's AI prefills and AI-suggested sitelinks, fix the final URL (defaults to the homepage), check keyword and ad text against the CR line by line, then verify what was actually saved with a read-only query and record any differences in the CR | `CR-GA-0001/0002/0004`; 2026-10-17 caught the wrong screen (New campaign), homepage final URL, AI prefills and an empty ad group after the first save |
 
 ## Decided
 

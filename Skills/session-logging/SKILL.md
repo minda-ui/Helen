@@ -11,7 +11,7 @@ description: Close out each unit of Helen's work the same way — HI-/ledger/cha
 3. **`processed-items-ledger.md`:** add the next row (company, channel, status, draft location). One row per brief/draft/check.
 4. **`change-log/change-log-YYYY-MM-DD-<slug>.md`:** one file per day; append a bullet per item, including anything that went wrong.
 5. **Commit + push** to the session branch (never `main` directly); end commits with the attribution lines. Retry a failed push once — it can be transient.
-6. **Upload to Drive** (`drive-git-mirror-sync`): `UPLOAD_UPDATE_FILE` for existing files, `UPLOAD_FILE` for new ones. Drive is the source of truth; the repo mirrors it.
+6. **Upload to Drive** with the estate script (`drive-git-mirror-sync` → `drive-sync-verified`): archive-then-recreate, dry-run first, one file at a time, byte-verified. Drive is the source of truth; the repo mirrors it.
 7. **Re-verify sizes**; report in one short line (Rule E).
 
 ## At "good night" (`Charter-Rules.md` sign-off)

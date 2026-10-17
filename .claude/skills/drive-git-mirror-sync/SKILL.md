@@ -13,11 +13,17 @@ Why not the Drive MCP text export: it is lossy (escapes characters, changes line
 ## Drive → repo
 For each `new`/`changed` file: `composio execute GOOGLEDRIVE_DOWNLOAD_FILE --account helen-googledrive -d '{ fileId: "<id>" }'` → it returns a signed `s3url` → `curl -fsSL -o <staging> "<url>"`. Check the byte size equals Drive's, copy into the repo, commit, push.
 
-## Repo → Drive
-- Existing file: `composio execute GOOGLEDRIVE_UPLOAD_UPDATE_FILE --account helen-googledrive --file <path> -d '{ fileId: "<id>" }'` (overwrites in place, same ID).
-- New file: `GOOGLEDRIVE_UPLOAD_FILE --file <path> -d '{ folder_to_upload_to: "<folderId>" }'`.
+## Repo → Drive (estate standard: archive-then-recreate)
+Use the estate skill `anthropic-skills:drive-sync-verified` (its `scripts/sync.sh`), one file at a time:
+```
+bash <path>/sync.sh <file> <drive-folder-id> --account helen-googledrive \
+  --archive 176t4--VNBZB6IN4SOTAPQnV1nzS3OyHK --reason "<date> <what>" [--dry-run]
+```
+It archives the old copy to `Archive/` as "(archived …, superseded by …)", uploads the new one, and checks size, md5, byte-identical round-trip, no U+FFFD, exactly one live copy. **Dry-run first.** Folder ids: KB root `1H487UxvNabq1HK1NljhmEedvNA-l3XhX`, Drafts `1IRsNnTccB6y7FJD-Ko0362wq7DJqGWKN`, change-log `1CpQJ367LlzoiUuSVzwrK9rxje4WQzGLk`, Research `14EgBgGB5s0LcAym58jA8DngE8Sp8Eo2h`, Brand-and-Voice `1rElrjL68HQVy-DPlk_FhzkVDZgxxysqX`, Raw `1XhPXqOiNejXKBPCgOYPKusSGtnRkmUTH`, Skills `1v7r603-jF6FpElRWUDx-V-n952em8-mt`.
+- **A replaced file gets a new Drive ID.** Never reuse an ID from earlier in a session or from notes — look the file up by folder and name.
+- Do **not** overwrite in place (`GOOGLEDRIVE_UPLOAD_UPDATE_FILE`): it skips the archive step. (Done 2026-10-06 → 10-17 by mistake; versions survive in git and Drive revisions.)
+- `--baseline origin/main` is omitted on purpose while the PR branch is ahead of `main`.
 - New folder: `GOOGLEDRIVE_CREATE_FOLDER -d '{ name: "…", parent_id: "<id>" }'`.
-Run the commands from the repo root so `--file` resolves.
 
 ## Verify
 Re-run `plan.py`: everything should be `same-size` except the known exceptions.

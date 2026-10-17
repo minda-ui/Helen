@@ -1,6 +1,6 @@
 # Google Ads — Change Request CR-GA-0004 (Fitted Kitchens ad group)
 
-**Status: approved as-is by Minda 2026-10-17 — awaiting application in the Ads UI.** Nothing here has been applied yet. Helen prepares sections 1–5; Minda completes 6 and applies in the Google Ads UI; Helen completes 7 at the review date.
+**Status: approved 2026-10-17 and applied the same day; verified. Two differences from the CR are recorded in section 6 (keywords added in a second step; negatives at ad-group level, broad match). Review dates: 7 and 14 days after 2026-10-17 (2026-10-24, 2026-10-31).** Helen prepares sections 1–5; Minda completes 6 and applies in the Google Ads UI; Helen completes 7 at the review date.
 
 **Request ID:** CR-GA-0004 · **Date:** 2026-10-17 · **Prepared by:** Helen
 **Account:** AMFA Furniture Ltd (customer `1468068988`) · **Campaign:** Amfa - Bespoke Kitchens - Search (existing) · **Ad group:** NEW — "Fitted Kitchens"
@@ -79,7 +79,7 @@ No broad match at launch. Lesson from the Bespoke ad group: several phrases went
 ## 6. Approval (Minda)
 - **Decision:** ☒ Approve as-is ☐ Approve with edits (below) ☐ Hold / reject
 - **Edits / conditions:** none stated. Helen's open question — is "from £2,000" right for *fitted* kitchens? — was not answered separately; approval as-is is taken to accept the copy as written.
-- **Approved by:** Minda (said "Approve as-is" in chat, recorded by Helen) · **Date:** 2026-10-17 · **Applied (where/when):** not yet applied — Minda to apply in the Google Ads UI; Helen verifies read-only afterwards
+- **Approved by:** Minda (said "Approve as-is" in chat, recorded by Helen) · **Date:** 2026-10-17 · **Applied (where/when):** Google Ads UI, 2026-10-17, by Minda; verified read-only by Helen the same day. Items 1, 9 (ad group + RSA): as written — "Fitted Kitchens" in the existing campaign, 1 RSA `APPROVED`/`REVIEWED`, final URL `https://amfa.uk/kitchens`, all 15 headlines and 4 descriptions exactly as in the CR (Google's AI prefills and 3 AI-suggested sitelinks were cleared first; the descriptions have no trailing full stop). Items 2–8 (7 phrase keywords): applied as written but **not on the first save** — the first save created the ad group and ad with 0 keywords; Minda added them afterwards, all 7 present in Fitted Kitchens, `ENABLED`; 4 `ELIGIBLE`, 3 `RARELY_SERVED` (low search volume: `fitted kitchen company Newcastle`, `new build kitchens Newcastle`, `affordable fitted kitchens North East`), all `UNDER_REVIEW` at the time. Item 10 (negatives): applied **differently** — `cheap`, `flat pack`, `flatpack` were added at **ad-group level** on Fitted Kitchens, as **broad** match, not campaign-level phrase as the CR said. Effect: they apply to Fitted Kitchens only, not to the Bespoke ad group. Campaign still has its 11 phrase negatives. Budget unchanged (£25/day), locations and radius unchanged.
 
 ## 7. Post-apply check (Helen, at the review dates)
 - **Result vs metric:** ____

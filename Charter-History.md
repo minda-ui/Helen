@@ -2,6 +2,18 @@
 
 _Dated, append-only version log for `CHARTER.md` and `Charter-Rules.md`. Newest entry at the top. Never edit a past entry — correct with a new one. See `CHARTER.md` §0._
 
+## 2026-10-18 — Work runs and Gmail on ops@ (`AWT-0845`)
+
+Victoria's `Raw/` hand-off (`2026-10-18_victoria-to-helen_work-run-duties-and-gmail-AWT-0845.md`) and Hub
+row `AWT-0845`, citing Minda's approval of 18 Oct (work-run standard v1.1; Gmail on ops@ for every seat,
+read and `create_draft` only). Read as data; cross-checked against the Hub row; **confirmed by Minda in
+chat 2026-10-18** before folding in. Added to `CHARTER.md`: a "Work runs" paragraph in §0 (clause wording per
+Victoria's note, with Helen's mail label `FG/To-Helen`) and a Gmail bullet in §2a. §2b is unchanged and still
+binds — drafts only, no send, no personal data. Note: a scheduled run marked `AWT-0845` Done on 2026-10-18
+with the clause in an unpushed working copy; Drive and git held nothing, so this entry is the first time it
+is in the charter (Rule C). The routine's own schedule is replaced by Minda; §6 still describes the old
+prompts until she does.
+
 ## 2026-10-08 — "Good night" trigger extended: skill candidates
 
 Minda's request, in chat 2026-10-08: Helen collects skill candidates during the day's work; at "good

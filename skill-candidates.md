@@ -6,7 +6,8 @@ _Collected during the day's work; reviewed at "good night" (`Charter-Rules.md`, 
 
 | ID | Added | Candidate | What it would do | Evidence (where it came up) |
 |---|---|---|---|---|
-| — | — | none pending | — | — |
+| SC-9 | 2026-10-18 | `ga4-readonly-check` | Read-only GA4 report for `amfa.uk` through the Composio CLI: key events, events by name, traffic by source/medium and landing page, form events by day; flag artefacts (Tilda preview traffic, crawler "google/cpc" sessions with no country); check the site's GTM/GA4 snippet. Never changes GA4/GTM | `AWT-0777` report (2026-10-17); will be reused to verify `AWT-0828` |
+| SC-10 | 2026-10-18 | `branch-pr-state-check` | Before saying "pushed, part of PR #N" or pushing follow-up work, read the PR's state; if it is merged, treat later work as new — merge `main` into the branch (no rebase/force-push, which the classifier blocks) and say a new PR is needed. Also check other `claude/*` branches for unmerged work on the same KB | 2026-10-18: PR #5 had been merged 11 days earlier; 22 commits unmerged and misdescribed |
 
 ## Decided
 
